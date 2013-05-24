@@ -1,16 +1,25 @@
 # Terry G Lorber II
-
 ## Manager, Software & Product Development        
+
+> [tgl@rideside.net](tgl@rideside.net)  
+> 781-632-0733
+
+-----
+
+## Profile {#profile}
 Looking to use my 15+ years engineering experience and nearly 3 years management experience to lead a diverse team to solve problems in the medical device space. Experienced in developing software to enable highly automated workflows for the manufacture of custom prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
 
-## Keywords
+-----
+
+## Keywords {#keywords}
 C/C++, Ruby, SQL, Python, PHP, Java, BASH, LOGO, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky & Atwood, Beck's XP, Tufte, Windows, Mac OS, Ubuntu, RHEL, Emacs, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype & Script.aculo.us (AJAX), Drupal, MFC, Unidraw
 
-## Experience
-### DENTSPLY Implants
-Waltham, MA
+-----
 
-Aug11-Present Manager, Global Digital Product Development
+## Experience
+DENTSPLY Implants, Waltham, MA
+: *Manager, Global Digital Product Development*
+__Aug11-Present__ 
 
 Managed interdisciplinary team of 5 direct reports.  Worked across boundaries with colleagues in Marketing & Communications, Operations, and Customer Service departments. Team responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implant’s CAD/CAM custom dental implant abutment, the ATLANTIS™ Abutment. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user & support documentation, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
 Launched the 3rd ATLANTIS Lab-based scanning platform.  Potential to convert 20% of business to arrive in digital form.
@@ -19,7 +28,7 @@ Launched 1st all digital ATLANTIS product, the ATLANTIS™ Abutment Core File.  
 Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
 Continued role as mentor to software team, resource for architecture and implementation decisions.
 
-
+-----
 
 
 
