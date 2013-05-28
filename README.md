@@ -16,10 +16,12 @@ C/C++, Ruby, SQL, Python, PHP, Java, BASH, LOGO, GoF's Design Patterns, Booch's 
 
 -----
 
-## Experience
-DENTSPLY Implants, Waltham, MA
-: *Manager, Global Digital Product Development*
-__Aug11-Present__ 
+## Experience {#experience}
+
+`Aug11-Present`
+__DENTSPLY Implants, Waltham, MA__
+
+- Manager, Global Digital Product Development
 
 Managed interdisciplinary team of 5 direct reports.  Worked across boundaries with colleagues in Marketing & Communications, Operations, and Customer Service departments. Team responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implant’s CAD/CAM custom dental implant abutment, the ATLANTIS™ Abutment. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user & support documentation, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
 Launched the 3rd ATLANTIS Lab-based scanning platform.  Potential to convert 20% of business to arrive in digital form.
@@ -28,24 +30,16 @@ Launched 1st all digital ATLANTIS product, the ATLANTIS™ Abutment Core File.  
 Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
 Continued role as mentor to software team, resource for architecture and implementation decisions.
 
------
+`Oct07-Aug11` (DENTSPLY International Inc. acquired Astra Tech AB)
+__Astra Tech, Waltham, MA__
 
-
-
-
-
-
-### Astra Tech
-Waltham, MA
-Oct07-Aug11 (DENTSPLY International Inc. acquired Astra Tech AB)
-
-Sep10–Aug11 Manager, Global Digital Product Development
+- Manager, Global Digital Product Development `Aug10-Aug11`
 
 In first year as manager, hired 2 Sr. Engineers, successfully integrating into the existing team, doubling it's size. 
 Launched the 2nd & 3rd ATLANTIS Lab-based scanning platforms. Converting an additional 30% of the business to all-digital order entry. 
 
-Jan09–Aug10 Consulting Software Engineer 
-Oct07–Jan09 Principal Software Engineer
+- Consulting Software Engineer `Jan09–Aug10` 
+- Principal Software Engineer `Oct07–Jan09` 
 
 Leader on development team of 12 software engineers.  Focused on mentoring teammates on best practices, particularly within the Ruby on Rails web application framework. Interfaced with all aspects of a global organization to determine software requirements. Continued development on 3 enterprise software applications that incorporated parameterized geometric models and expert systems to aid in the manufacture of abutments for dental implants. Installed and maintained tools for software development: source control, bug database, continuous integration dashboard, release website, and web log.  Gathered requirements, documented design, implemented code, released software, tracked bugs, and patched software.
 Lead developer on integration efforts.
@@ -53,14 +47,14 @@ Supported transfer of technology to second source, in Mölndal, Sweden.
 Integrated existing proprietary CAD system with new ERP system, re-using library developed using the Data Access Object pattern.
 Lead developer for the 1st  ATLANTIS Lab-based scanning platform.  Converting 15% of the business to all-digital order entry, reducing Cost-of-Goods sold.
 
-### Atlantis Components, Inc.
-Cambridge, MA
-Aug00-Oct07 (Astra Tech AB acquired Atlantis Components, Inc.)
+`Aug00-Oct07` (Astra Tech AB acquired Atlantis Components, Inc.)
+__Atlantis Components, Inc, Cambridge, MA__
 
-Jan07–Oct07 Principal Software Engineer
-Jun04–Jan07 Senior Software Engineer
-Sep02–Jun04 Senior Engineer
-Aug00–Sep02 Mechanical Engineer
+- Principal Software Engineer 
+`Jan07–Oct07` 
+- Senior Software Engineer `Jun04–Jan07` 
+- Senior Engineer `Sep02–Jun04` 
+- Mechanical Engineer `Aug00–Sep02` 
 
 An early member of the engineering team, contributed immediately by delivering software tools to reduce labor in the scan & design steps of the ATLANTIS process.  Quickly learned software development best practices as sole developer on staff.  As the team grew, worked as a mentor to other members.
 Created software systems that are still in use, to enable and support global sales exceeding $50 million/year
@@ -78,35 +72,34 @@ Designed and implemented applications to automate use of CAD models for designin
 Implemented feature detection algorithms for determining implant replica placement within study model scan data
 Installed and maintained development tools: Subversion, Bugzilla, and Drupal
 
-
-### Freudenberg–NOK General Partnership
-Bristol, NH
-Jun96–Sep99 Product Engineer
+`Jun96–Sep99`
+__Freudenberg-NOK General Partnership, Bristol, NH__
+- Product Engineer
 
 Leader of a cross–functional team supporting custom designed oil seals for the Aerospace and Automotive industry. Managed product process from initial design and quoting to production launching and troubleshooting. Experienced in compression, transfer and injection molding processes. Created test plans for material & product development. Participated in Kaizen activity to implement lean manufacturing processes. Involved in implementation of quality systems to meet FAA and customer requirements.
 
+----
 
-## Education
+## Education {#education}
 
-Boston University, Metropolitan College – Boston, MA
-M.S. in Computer Science  Sep 2013
+__Boston University, Metropolitan College – Boston, MA__
 
-Boston University, Metropolitan College – Boston, MA
-Undergraduate Certificate in Software Development  May 2010
+M.S. in Computer Science  `Sep 2013`
 
-University of Michigan, College of Engineering – Ann Arbor, MI
-B.S.E. (Mechanical Engineering)  May 1996
+__Boston University, Metropolitan College – Boston, MA__
 
+Undergraduate Certificate in Software Development  `May 2010`
 
-## Honors & Interests
-Eagle Scout
+__University of Michigan, College of Engineering – Ann Arbor, MI__
 
-UM College of Engineering Leadership Honor Society, member
+B.S.E. (Mechanical Engineering)  `May 1996`
 
-1974 Datsun 260Z, owner
+----
 
-Brewer
-
-Surfer
-
-Telemark Skier
+## Honors & Interests {#extra}
+- Eagle Scout
+- UM College of Engineering Leadership Honor Society, member
+- 1974 Datsun 260Z, owner
+- Brewer
+- Surfer
+- Telemark Skier
