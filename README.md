@@ -30,8 +30,9 @@ Launched 1st all digital ATLANTIS product, the ATLANTIS™ Abutment Core File.  
 Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
 Continued role as mentor to software team, resource for architecture and implementation decisions.
 
-`Oct07-Aug11` (DENTSPLY International Inc. acquired Astra Tech AB)
+`Oct07-Aug11`
 __Astra Tech, Waltham, MA__
+(DENTSPLY International Inc. acquired Astra Tech AB)
 
 - Manager, Global Digital Product Development `Aug10-Aug11`
 
@@ -47,8 +48,9 @@ Supported transfer of technology to second source, in Mölndal, Sweden.
 Integrated existing proprietary CAD system with new ERP system, re-using library developed using the Data Access Object pattern.
 Lead developer for the 1st  ATLANTIS Lab-based scanning platform.  Converting 15% of the business to all-digital order entry, reducing Cost-of-Goods sold.
 
-`Aug00-Oct07` (Astra Tech AB acquired Atlantis Components, Inc.)
+`Aug00-Oct07` 
 __Atlantis Components, Inc, Cambridge, MA__
+(Astra Tech AB acquired Atlantis Components, Inc.)
 
 - Principal Software Engineer 
 `Jan07–Oct07` 
@@ -85,8 +87,6 @@ Leader of a cross–functional team supporting custom designed oil seals for the
 __Boston University, Metropolitan College – Boston, MA__
 
 M.S. in Computer Science  `Sep 2013`
-
-__Boston University, Metropolitan College – Boston, MA__
 
 Undergraduate Certificate in Software Development  `May 2010`
 
