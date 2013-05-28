@@ -4,13 +4,13 @@
 > [tgl@rideside.net](tgl@rideside.net)  
 > +1-781-632-0733
 
-## Profile {#profile}
+## Profile
 Looking to use my 15+ years engineering experience and nearly 3 years management experience to lead a diverse team to solve problems in the medical device space. Experienced in developing software to enable highly automated workflows for the manufacture of custom prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
 
-## Keywords {#keywords}
+## Keywords
 C/C++, Ruby, SQL, Python, PHP, Java, BASH, LOGO, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky & Atwood, Beck's XP, Tufte, Windows, Mac OS, Ubuntu, RHEL, Emacs, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype & Script.aculo.us (AJAX), Drupal, MFC, Unidraw
 
-## Experience {#experience}
+## Experience
 
 `Aug11-Present`
 __DENTSPLY Implants, Waltham, MA__
@@ -74,7 +74,7 @@ __Freudenberg-NOK General Partnership, Bristol, NH__
 
 Leader of a cross–functional team supporting custom designed oil seals for the Aerospace and Automotive industry. Managed product process from initial design and quoting to production launching and troubleshooting. Experienced in compression, transfer and injection molding processes. Created test plans for material & product development. Participated in Kaizen activity to implement lean manufacturing processes. Involved in implementation of quality systems to meet FAA and customer requirements.
 
-## Education {#education}
+## Education
 
 __Boston University, Metropolitan College – Boston, MA__
 
@@ -86,7 +86,7 @@ __University of Michigan, College of Engineering – Ann Arbor, MI__
 
 B.S.E. (Mechanical Engineering)  `May 1996`
 
-## Honors & Interests {#extra}
+## Honors & Interests
 - Eagle Scout
 - UM College of Engineering Leadership Honor Society, member
 - 1974 Datsun 260Z, owner
