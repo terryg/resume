@@ -8,7 +8,7 @@
 Looking to use my 15+ years engineering experience and nearly 3 years management experience to lead a diverse team to solve problems in the medical device space. Experienced in developing software to enable highly automated workflows for the manufacture of custom prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
 
 ## Keywords
-C/C++, Ruby, SQL, Python, PHP, Java, BASH, LOGO, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky & Atwood, Beck's XP, Tufte, Windows, Mac OS, Ubuntu, RHEL, Emacs, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype & Script.aculo.us (AJAX), Drupal, MFC, Unidraw
+C/C++, Ruby, SQL, Python, PHP, Java, BASH, LOGO, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky & Atwood, Beck's XP, Tufte, Windows, Mac OS, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw
 
 ## Experience
 
