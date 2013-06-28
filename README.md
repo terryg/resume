@@ -5,10 +5,10 @@
 > +1-781-632-0733
 
 ## Profile
-Looking to use my 15+ years engineering experience and nearly 3 years management experience to lead a diverse team to solve problems in the medical device space. Experienced in developing software to enable highly automated workflows for the manufacture of custom prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
+Looking to use my 15+ years engineering experience and 3 years management experience to lead a diverse team to solve problems in the healthcare space. Experienced in developing software to enable highly automated workflows for the manufacture of custom prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
 
 ## Keywords
-C/C++, Ruby, SQL, Python, PHP, Java, BASH, LOGO, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky & Atwood, Beck's XP, Tufte, Windows, Mac OS, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw
+C/C++, Ruby, SQL, Java, Javascript, Python, PHP, BASH, LOGO, Kan Ban, Agile, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky & Atwood, Beck's XP, Tufte, Windows, Mac OS, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
 
 ## Experience
 
@@ -18,7 +18,7 @@ __DENTSPLY Implants, Waltham, MA__
 - Manager, Global Digital Product Development
 
 Managed interdisciplinary team of 5 direct reports.  Worked across boundaries with colleagues in Marketing & Communications, Operations, and Customer Service departments. Team responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implant’s CAD/CAM custom dental implant abutment, the ATLANTIS™ Abutment. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user & support documentation, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
-Launched the 3rd ATLANTIS Lab-based scanning platform.  Potential to convert 20% of business to arrive in digital form.
+Launched the 3rd ATLANTIS Lab-based scanning platform.  Enabling  25% of business to arrive in digital form.
 Led planning & started development of integration with intra-oral scanning systems. Potential to design & manufacture CAD/CAM custom dental implant abutments with no physical models.
 Launched 1st all digital ATLANTIS product, the ATLANTIS™ Abutment Core File.  This downloadable offering allows dental labs to make use of their CAD/CAM tools before receipt of the physical abutment. Product delivered to the customer automatically, with no labor component, boosting Gross Margin.
 Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
@@ -31,7 +31,7 @@ __Astra Tech, Waltham, MA__
 - Manager, Global Digital Product Development `Aug10-Aug11`
 
 In first year as manager, hired 2 Sr. Engineers, successfully integrating into the existing team, doubling it's size. 
-Launched the 2nd & 3rd ATLANTIS Lab-based scanning platforms. Converting an additional 30% of the business to all-digital order entry. 
+Launched the 2nd ATLANTIS Lab-based scanning platforms. Converting an additional 10% of the business to all-digital order entry. 
 
 - Consulting Software Engineer `Jan09–Aug10` 
 - Principal Software Engineer `Oct07–Jan09` 
