@@ -88,6 +88,10 @@ Leader of a cross–functional team supporting custom designed oil seals for the
 
 ## Education
 
+__DENTSPLY International Leadership Series - Frankfurt DEU__
+
+Advanced Management Practices `May 2014`
+
 __Boston University, Metropolitan College – Boston, MA__
 
 M.S. in Computer Science  `Sep 2013`
