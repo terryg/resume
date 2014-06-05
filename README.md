@@ -1,5 +1,5 @@
 # Terry G Lorber II
-## Manager, Software & Product Development        
+## Director of Software, Product & Business Development        
 
 > [tgl@rideside.net](tgl@rideside.net)  
 > +1-781-632-0733
@@ -12,7 +12,12 @@ C/C++, Ruby, SQL, Java, Javascript, Python, PHP, BASH, LOGO, Kan Ban, Agile, GoF
 
 ## Experience
 
-`Aug11-Present`
+`Jun14-Present`
+__DENTSPLY Implants, Waltham, MA__
+
+- Director, Global Digital Product Development
+- 
+`Aug11-May14`
 __DENTSPLY Implants, Waltham, MA__
 
 - Manager, Global Digital Product Development
