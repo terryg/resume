@@ -15,7 +15,7 @@ C/C++, Ruby, SQL, Java, Javascript, Python, PHP, BASH, LOGO, Kan Ban, Agile, GoF
 `Jun14-Present`
 __DENTSPLY Implants, Waltham, MA__
 
-- Director, Global Digital Product Development
+- Director, ATLANTIS Global Digital Product Development
  
 `Aug11-May14`
 __DENTSPLY Implants, Waltham, MA__
