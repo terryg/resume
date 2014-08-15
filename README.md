@@ -8,7 +8,7 @@
 Ready to apply my 15+ years engineering experience and 3+ years management experience to leading a diverse engineering team. Experienced in developing software to enable highly automated workflows for the manufacture of custom prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
 
 ## Keywords
-C/C++, Ruby, SQL, Java, Javascript, Python, PHP, BASH, LOGO, Kan Ban, Agile, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky & Atwood, Beck's XP, Tufte, Windows, Mac OS, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
+Brooks' The Mythical Man-Month, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Jeff Atwood's Coding Horror, Beck's XP, Edward Tufte, KanBan, Kaizen, Agile, C/C++, Ruby, SQL, Java, Javascript, Python, PHP, BASH, LOGO, Windows, Mac OS, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
 
 ## Experience
 
