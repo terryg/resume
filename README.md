@@ -1,7 +1,7 @@
 # Terry G Lorber II
 ## Director of Software, Product & Business Development        
 
-> [tgl@rideside.net](tgl@rideside.net)  
+> <tgl@rideside.net>  
 > +1-781-632-0733
 
 ## Profile
