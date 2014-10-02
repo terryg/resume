@@ -16,7 +16,9 @@ Brooks' The Mythical Man-Month, GoF's Design Patterns, Booch's UML, Fowler's Con
 __DENTSPLY Implants, Waltham, MA__
 
 - Director, ATLANTIS Global Digital Product Development
- 
+
+Launched 1st connection with intraoral scanning system.
+
 `Aug11-May14`
 __DENTSPLY Implants, Waltham, MA__
 
