@@ -15,16 +15,24 @@ Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, GoF's Design Patt
 `Jun14-Present`
 __DENTSPLY Implants, Waltham, MA__
 
-- Director, ATLANTIS Global Digital Product Development
+- Director, Global Digital Product Development
 
-Launched 1st connection with intraoral scanning system.
+Managed interdisciplinary team of 5 direct reports.  Worked across boundaries with colleagues in Marketing & Communications, Operations, and Customer Service departments. Team responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implant’s CAD/CAM restorative solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user & support documentation, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
+
+Completed final phases project to connect business partner's data acquisition network with DENTSPLY Implants centralized design & manufacturing facilities.  Managed relationship with business partner, managed cross-functional team that implemented the project, negotiated with other functions for resources. Project completion resulted in Marketing Launch at the year's premier implantology forum & trade show.
 
 `Aug11-May14`
 __DENTSPLY Implants, Waltham, MA__
 
 - Manager, Global Digital Product Development
 
-Managed interdisciplinary team of 5 direct reports.  Worked across boundaries with colleagues in Marketing & Communications, Operations, and Customer Service departments. Team responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implant’s CAD/CAM restorative solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user & support documentation, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
+Completed collaboration agreement between business partner and DENTSPLY Implants to enable sharing of product information.
+
+On-boarded three (3) new hires.
+
+Negotiated and completed 2nd collaboration agreement between business partner and DENTSPLY Implants to enable sharing of case information, including scan data, from partner's software to DENTSPLY Implants' design & manufacturing centers.
+
+Negotiated and completed collaboration agreement between business partner and DENTSPLY Implants to enable sharing of case information, including scan data, from partner's software to DENTSPLY Implants' design & manufacturing centers.
 
 Developed and launched solutions to integrate 3D scanning by customers, transferring to online order entry.  Enabling >50% of business to arrive in digital form.
 
