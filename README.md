@@ -12,19 +12,16 @@ Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, GoF's Design Patt
 
 ## Experience
 
-`Jun14-Present`
+`Aug11-Present`
 __DENTSPLY Implants, Waltham, MA__
 
-- Director, Global Digital Product Development
+- Director, Global Digital Product Development `Jun14-present`
 
 Managed interdisciplinary team of five (5) direct reports.  Worked across boundaries with colleagues in Marketing & Communications, Operations, and Customer Service departments. Team responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implant’s CAD/CAM restorative solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user & support documentation, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
 
 Completed final phases of project to connect business partner's data acquisition network with DENTSPLY Implants centralized design & manufacturing facilities.  Managed relationship with business partner, managed cross-functional team that implemented the project, negotiated with other functions for resources. Project completion resulted in Marketing Launch at the year's premier implantology forum & trade show.
 
-`Aug11-May14`
-__DENTSPLY Implants, Waltham, MA__
-
-- Manager, Global Digital Product Development
+- Manager, Global Digital Product Development `Aug11-May14`
 
 Completed collaboration agreement between business partner and DENTSPLY Implants to enable sharing of product information.
 
@@ -49,7 +46,7 @@ __Astra Tech, Inc., Waltham, MA__
 
 - Manager, Global Digital Product Development `Aug10-Aug11`
 
-In first year as manager, hired 2 Sr. Engineers, successfully integrating into the existing team, doubling it's size. 
+In first year as manager, hired the (2) Sr. Engineers, successfully integrating into the existing team, doubling it's size. 
 Launched the 2nd ATLANTIS Lab-based scanning platform. Converting an additional 10% of the business to all-digital order entry.
 
 - Consulting Software Engineer `Jan09–Aug10` 
