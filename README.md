@@ -73,23 +73,8 @@ __Atlantis Components, Inc., Cambridge, MA__
 
 An early member of the engineering team, contributed immediately by delivering software tools to reduce labor in the scan & design steps of the ATLANTIS process.  Quickly learned software development best practices as sole developer on staff.  As the team grew, worked as a mentor to other members.
 
-Created software systems that are still in use, to enable and support global sales exceeding $50 million/year.
+Designed and implemented applications to automate the design and manufacture of dental implant abutments.
 
-Specified, designed, and implemented the ATLANTIS VAD™ software suite, which has enabled daily global production capacity to increase from 1/day to 1,000/day.
-
-Specified, designed, and implemented ATLANTIS™ WebOrder, using the Ruby on Rails framework. Reduced order entry time by 25%, reduced data entry error.  When used with remote scanning support, transferred data acquisition responsibility to the customer, saving labor costs.
-
-Specified, designed, and implemented Solon, the scanner interface application, decreased time to scan customer orders by 20%.
-
-Implemented build and release system using BASH, CMake, and NSIS.
-
-Gathered requirements for applications to support data archival and replication.
-
-Designed and implemented applications to automate use of CAD models for designing dental implant abutments.
-
-Implemented feature detection algorithms for determining implant replica placement within study model scan data.
-
-Installed and maintained development tools: Subversion, Bugzilla, and Drupal.
 
 `Jun96–Sep99`
 __Freudenberg-NOK General Partnership, Bristol, NH__
