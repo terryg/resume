@@ -23,32 +23,28 @@ Completed final phases of project to connect business partner's data acquisition
 
 - Manager, Global Digital Product Development `Aug11-May14`
 
-Completed collaboration agreement between business partner and DENTSPLY Implants to enable sharing of product information.
-
 On-boarded three (3) new hires.
 
-Negotiated and completed 2nd collaboration agreement between business partner and DENTSPLY Implants to enable sharing of case information, including scan data, from partner's software to DENTSPLY Implants' design & manufacturing centers.
+Negotiated and completed collaboration agreements between business partners and DENTSPLY Implants to enable sharing of case information, including scan data, from partner's software to DENTSPLY Implants' design & manufacturing centers.
 
-Negotiated and completed collaboration agreement between business partner and DENTSPLY Implants to enable sharing of case information, including scan data, from partner's software to DENTSPLY Implants' design & manufacturing centers.
+Achieved goal of delivering projects that resulted in >50% of business via web-based order entry.
 
-Developed and launched solutions to integrate 3D scanning by customers, transferring to online order entry.  Enabling >50% of business to arrive in digital form.
+Achieved goal of integration with intraoral scanning systems.
 
-Led planning, development, and first market test of integration with intra-oral scanning systems. Potential to design & manufacture CAD/CAM custom dental implant abutments with no physical models.
-
-Launched 1st all digital ATLANTIS product, the ATLANTIS™ Abutment Core File.  This downloadable offering allows dental labs to make use of their CAD/CAM tools before receipt of the physical abutment. Product delivered to the customer automatically, with no labor component, boosting Gross Margin.
+Achieved goal of launching company's first digital product.
 
 Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
 
-Continued role as mentor to software team, resource for architecture and implementation decisions.
+Continued role as mentor to software team, as architecture owner of the order entry web-based platform.
 
 `Oct07-Aug11`
 __Astra Tech, Inc., Waltham, MA__
 
 - Manager, Global Digital Product Development `Aug10-Aug11`
 
-In first year as manager, hired two (2) Sr. Engineers, successfully integrating into the existing team, doubling it's size. 
+On boarded two (2) new hires.
 
-Launched the 2nd ATLANTIS Lab-based scanning platform. Converting an additional 10% of the business to all-digital order entry.
+Achieved goal of delivering project to convert 10% of business to web-based order entry.
 
 - Consulting Software Engineer `Jan09–Aug10` 
 - Principal Software Engineer `Oct07–Jan09` 
