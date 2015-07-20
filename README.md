@@ -1,4 +1,4 @@
-# Terry G Lorber II
+# Terry G Lorber
 ## Director of Software, Product & Business Development        
 
 > <tgl@rideside.net>  
