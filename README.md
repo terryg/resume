@@ -46,7 +46,8 @@ __Astra Tech, Inc., Waltham, MA__
 
 - Manager, Global Digital Product Development `Aug10-Aug11`
 
-In first year as manager, hired the (2) Sr. Engineers, successfully integrating into the existing team, doubling it's size. 
+In first year as manager, hired two (2) Sr. Engineers, successfully integrating into the existing team, doubling it's size. 
+
 Launched the 2nd ATLANTIS Lab-based scanning platform. Converting an additional 10% of the business to all-digital order entry.
 
 - Consulting Software Engineer `Jan09–Aug10` 
