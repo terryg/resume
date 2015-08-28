@@ -35,7 +35,7 @@ Achieved goal of launching company's first digital product.
 
 Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
 
-Continued role as mentor to software team, as architecture owner of the order entry web-based platform.
+Continued role as mentor to software team, as architecture owner of the web-based order entry platform.
 
 `Oct07-Aug11`
 __Astra Tech, Inc., Waltham, MA__
@@ -52,9 +52,9 @@ Achieved goal of delivering project to convert 10% of business to web-based orde
 Leader on development team of 12 software engineers.  Focused on mentoring teammates on best practices, particularly within the Ruby on Rails web application framework. Interfaced with all aspects of a global organization to determine software requirements. Continued development on 3 enterprise software applications that incorporated parameterized geometric models and expert systems to aid in the manufacture of abutments for dental implants. Installed and maintained tools for software development: source control, bug database, continuous integration dashboard, release website, and web log.  Gathered requirements, documented design, implemented code, released software, tracked bugs, and patched software.
 Lead developer on integration efforts.
 
-Supported transfer of technology to second source, in Mölndal, Sweden.
+Supported transfer of technology to second source in Mölndal, Sweden.
 
-Integrated existing proprietary CAD system with new ERP system, re-using library developed using the Data Access Object pattern.
+Integrated existing proprietary CAD system with new ERP system, leveraging library developed using the Data Access Object pattern.
 
 Lead developer for the 1st  ATLANTIS Lab-based scanning platform.  Converting 15% of the business to all-digital order entry, reducing Cost-of-Goods sold.
 
