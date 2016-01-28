@@ -17,9 +17,17 @@ __DENTSPLY Implants, Waltham, MA__
 
 - Director, Global Digital Product Development `Jun14-present`
 
-Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implant’s CAD/CAM restorative solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user, support, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
+Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implants' CAD/CAM restorative solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user, support, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
 
-Completed final phases of project to connect business partner's data acquisition network with DENTSPLY Implants' centralized design & manufacturing facilities.  Managed relationship with business partner, managed cross-functional team that implemented the project, negotiated with other functions for resources. Project completion resulted in Marketing Launch at the year's premier implantology forum & trade show.
+On-boarded one (1) new hire.
+
+Authored strategy white paper for connectivity to data acquisition devices and networks in the dental industry.  Strategy adopted by $75M global business experiencing double-digit growth.
+
+Intitiated and completed project to connect business partner's intraoral scanning systems with DENTSPLY Implants' centralized design & manufacturing facilities.  Managed relationship with business partners, managed cross-functional team that implemented the project, negotiated with other functions for resources. Project completion resulted in Marketing Launch at the premier implantology forum & trade show in Europe.
+
+Initiated and completed project to connect 3rd major dental CAD system with DENTSPLY Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
+
+Delivered product enhancements to support 100% growth in yearly unit volume for innovative digital product.
 
 - Manager, Global Digital Product Development `Aug11-May14`
 
@@ -35,7 +43,7 @@ Achieved goal of launching company's first digital product.
 
 Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
 
-Continued role as mentor to software team, as architecture owner of the web-based order entry platform.
+Continued role of mentor to software team, as architecture owner of DENTSPLY Implants' web-based order entry platform.
 
 `Oct07-Aug11`
 __Astra Tech, Inc., Waltham, MA__
