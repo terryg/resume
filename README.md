@@ -5,7 +5,7 @@
 > +1-781-632-0733
 
 ## Profile
-Ready to apply my 20 years engineering experience and 5 years management experience to leading a diverse engineering team. Experienced in developing software to enable highly automated workflows for the manufacture of custom prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
+Ready to apply my 20 years engineering experience and 6 years management experience to leading a diverse engineering team. Experienced in developing software to enable highly automated workflows for the manufacture of patient-specific prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
 
 ## Keywords
 Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Jeff Atwood's Coding Horror, Beck's XP, Edward Tufte, KanBan, Kaizen, Agile, C/C++, Ruby, SQL, Java, Javascript, Python, PHP, BASH, LOGO, Windows, Mac OS, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
@@ -13,19 +13,19 @@ Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, GoF's Design Patt
 ## Experience
 
 `Aug11-Present`
-__DENTSPLY Implants, Waltham, MA__
+__Dentsply Sirona Implants, Waltham, MA__
 
 - Director, Global Digital Product Development `Jun14-present`
 
-Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Responsible for defining and delivering software-based products to support and expand upon DENTSPLY Implants' CAD/CAM restorative solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Project hand-off to Marketing for commercialization including end-user, support, and training materials.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
+Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Responsible for defining and delivering software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing for commercialization with end-user documentation, trainng materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
 
 On-boarded one (1) new hire.
 
 Authored strategy white paper for connectivity to data acquisition devices and networks in the dental industry.  Strategy adopted by $75M global business experiencing double-digit growth.
 
-Intitiated and completed project to connect business partner's intraoral scanning systems with DENTSPLY Implants' centralized design & manufacturing facilities.  Managed relationship with business partners, managed cross-functional team that implemented the project, negotiated with other functions for resources. Project completion resulted in Marketing Launch at the premier implantology forum & trade show in Europe.
+Intitiated and completed project to connect business partner's intraoral scanning systems with Dentsply Sirona Implants' centralized design & manufacturing facilities.  Managed relationship with business partner, managed cross-functional team that implemented the project, and negotiated with other functions for resources. Project completion resulted in Marketing's launch at the premier implantology forum & trade show in Europe.
 
-Initiated and completed project to connect 3rd major dental CAD system with DENTSPLY Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
+Initiated and completed project to connect 3rd major dental CAD system with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
 
 Delivered product enhancements to support 100% growth in yearly unit volume for innovative digital product.
 
@@ -33,11 +33,11 @@ Delivered product enhancements to support 100% growth in yearly unit volume for 
 
 On-boarded three (3) new hires.
 
-Negotiated and completed collaboration agreements between business partners and DENTSPLY Implants to enable sharing of case information, including scan data, from partner's software to DENTSPLY Implants' design & manufacturing centers.
+Negotiated and completed collaboration agreements between business partners and Dentsply Sirona Implants to enable sharing of case information, including scan data, from partner's software to Dentsply Sirona Implants' design & manufacturing centers.
 
 Achieved goal of delivering projects that resulted in >50% of business via web-based order entry.
 
-Achieved goal of integration with intraoral scanning systems.
+Achieved goal of integration with an intraoral scanning system.
 
 Achieved goal of launching company's first digital product.
 
@@ -64,7 +64,7 @@ Supported transfer of technology to second source in Mölndal, Sweden.
 
 Integrated existing proprietary CAD system with new ERP system, leveraging library developed using the Data Access Object pattern.
 
-Lead developer for the 1st  ATLANTIS Lab-based scanning platform.  Converting 15% of the business to all-digital order entry, reducing Cost-of-Goods sold.
+Software Lead for the company's first lab-based scanning integration project.  Converted 15% of the business to all-digital order entry, reducing Cost-of-Goods sold.
 
 `Aug00-Oct07` 
 __Atlantis Components, Inc., Cambridge, MA__
@@ -105,7 +105,6 @@ B.S.E. (Mechanical Engineering)  `May 1996`
 ## Honors & Interests
 - Eagle Scout
 - UM College of Engineering Leadership Honor Society, member
-- 1974 Datsun 260Z, owner
 - Brewer
 - Surfer
 - Telemark Skier
