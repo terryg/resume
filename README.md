@@ -17,7 +17,7 @@ __Dentsply Sirona Implants, Waltham, MA__
 
 - Director, Global Digital Product Development `Jun14-present`
 
-Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Responsible for defining and delivering software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing for commercialization with end-user documentation, trainng materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Development.
+Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Responsible for defining and delivering software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing for commercialization with end-user documentation, trainng materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Research & Development.
 
 On-boarded one (1) new hire.
 
@@ -43,7 +43,7 @@ Achieved goal of launching company's first digital product.
 
 Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
 
-Continued role of mentor to software team, as architecture owner of DENTSPLY Implants' web-based order entry platform.
+Continued role of mentor to software team, as architecture owner of Dentsply Sirona Implants' web-based order entry platform.
 
 `Oct07-Aug11`
 __Astra Tech, Inc., Waltham, MA__
