@@ -5,7 +5,7 @@
 > +1-781-632-0733
 
 ## Profile
-Ready to apply my 20 years engineering experience and 6 years management experience to leading a diverse engineering team. Experienced in developing software to enable highly automated workflows for the manufacture of patient-specific prosthetic devices. I enjoy tackling problems and finding answers, especially if the answer requires learning new tools or methods.
+Ready to apply my 20 years engineering experience and 6 years management experience to leading a diverse engineering team. Experienced in developing software to enable highly automated workflows for the manufacture of patient-specific prosthetic devices. I enjoy tackling problems and finding answers, especially if the problem requires learning new tools or methods.
 
 ## Keywords
 Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Jeff Atwood's Coding Horror, Beck's XP, Edward Tufte, KanBan, Kaizen, Agile, C/C++, Ruby, SQL, Java, Javascript, Python, PHP, BASH, LOGO, Windows, Mac OS, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
