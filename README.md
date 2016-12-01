@@ -26,7 +26,7 @@ __DENTSPLY Implants, Waltham, MA__
 
 - Director, Global Digital Product Development `Jun14-Feb16`
 
-On-boarded one (1) new hire.
+On-boarded two (2) new hires.
 
 Authored strategy white paper for connectivity to data acquisition devices and networks in the dental industry.  Strategy adopted by $75M global business experiencing double-digit growth.
 
