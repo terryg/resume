@@ -15,7 +15,7 @@ Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, GoF's Design Patt
 `Feb16-Present`
 __Dentsply Sirona Implants, Waltham, MA__
 
-- Director, Global Digital Product Development `Jun14-present`
+- Director, Global Digital Product Development `Feb16-present`
 
 Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Responsible for defining and delivering software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing for commercialization with end-user documentation, training materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Research & Development.
 
