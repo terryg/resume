@@ -8,7 +8,7 @@
 Ready to apply my 20 years engineering experience and 6 years management experience to leading a diverse team. Experienced in developing software to enable highly automated workflows for the manufacture of patient-specific prosthetic devices. I enjoy tackling problems and finding answers, especially if the problem requires learning new tools or methods.
 
 ## Keywords
-Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, GoF's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Jeff Atwood's Coding Horror, Beck's XP, Edward Tufte, KanBan, Kaizen, Agile, C/C++, Ruby, SQL, Java, Javascript, Python, PHP, BASH, LOGO, Windows, Mac OS, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
+Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information, KanBan, Kaizen, Agile, Ruby, Javascript, C/C++, SQL, Java, Python, PHP, BASH, LOGO, Windows, Mac OS, Linux, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
 
 ## Experience
 
@@ -19,7 +19,7 @@ __Dentsply Sirona Implants, Waltham, MA__
 
 Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.  Responsible for defining and delivering software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing for commercialization with end-user documentation, training materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Research & Development.
 
-On-boarded one (1) new hire.
+On-boarded two (2) new hires.
 
 `Aug11-Feb16`
 __DENTSPLY Implants, Waltham, MA__
