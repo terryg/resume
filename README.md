@@ -43,9 +43,9 @@ Continued role of mentor to software team, as architecture owner of DENTSPLY Imp
 
 Achieved goal of delivering project to convert 10% of business to web-based order entry.
 
-__Consulting Software Engineer__, _Astra Tech, Inc - Waltham, MA_, Jan 2009 - Aug 2010
+__Consulting Software Engineer__, _Astra Tech, Inc - Waltham, MA_, Jan 2009 - Jul 2010
 
-__Principal Software Engineer__, _Astra Tech, Inc - Cambridge, MA_, Jan 2007 - Jan 2009
+__Principal Software Engineer__, _Astra Tech, Inc - Cambridge, MA_, Jan 2007 - Dec 2008
 
 Leader on development team of twelve (12) software engineers.  Focused on mentoring teammates on best practices, particularly with the Ruby on Rails web application framework. Interfaced with all aspects of a global organization to determine software requirements. Continued development on three (3) enterprise software applications that incorporated parameterized geometric models and expert systems to aid in the manufacture of abutments for dental implants. Installed and maintained tools for software development: source control, issue tracking, continuous integration dashboard, release documentation, and web log.  Gathered requirements, documented design, implemented code, released software, tracked bugs, and patched software.
 Lead developer on integration efforts.
@@ -58,9 +58,9 @@ Software Lead for the company's first lab-based scanning integration project.  C
 
 __Senior Software Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Jun 2004 - Jan 2007
 
-__Senior Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Sep 2002 - Jun 2004
+__Senior Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Sep 2002 - May 2004
 
-__Mechanical Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Aug 2000 - Sep 2002
+__Mechanical Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Aug 2000 - Aug 2002
 
 An early member of the engineering team, contributed immediately by delivering software tools to reduce labor in the scan & design steps of the Atlantis process.  Acquired skills to implement software development best practices. As the team grew, worked as a mentor to other members.
 
