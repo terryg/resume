@@ -19,9 +19,9 @@ Authored strategy white paper for connectivity to data acquisition devices and n
 
 Member of team that conducted due diligence for potential acquisition of competitor.  Authored team's report and participated in process that ultimately decided to not pursue the acquisition.
 
-Achieved goal of integration with an intraoral scanning system.  Intitiated and completed project to connect 1st major intraoral scanning systems with DENTSPLY Implants' centralized design & manufacturing facilities.  Negotiated agreement and managed relationship with business partner and managed cross-functional team that implemented the project. Project completion resulted in Marketing's launch at the premier implantology forum & trade show in Europe.
+Achieved goal of integration with an intraoral scanning system.  Intitiated and completed project to connect 1st major intraoral scanning systems with Dentsply Sirona Implants' centralized design & manufacturing facilities.  Negotiated agreement and managed relationship with business partner and managed cross-functional team that implemented the project. Project completion resulted in Marketing's launch at the premier implantology forum & trade show in Europe.
 
-Initiated and completed project to connect 2nd major intraoral scanning system with DENTSPLY Implants' centralized design & manufacturing facilities.
+Initiated and completed project to connect 2nd major intraoral scanning system with Dentsply Sirona Implants' centralized design & manufacturing facilities.
 
 Initiated and completed project to connect 3rd major dental CAD system with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
 
@@ -85,9 +85,7 @@ Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, John
 
 ## Honors & Interests
 - Eagle Scout
-- UM College of Engineering Leadership Honor Society, member
-- Brewer
-- Surfer
-- Telemark Skier
-- https://github.com/terryg
+- UM College of Engineering Leadership Honor Society
+- Brewer, Surfer, Telemark Skier
+- Coder https://github.com/terryg
 
