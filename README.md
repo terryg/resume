@@ -5,7 +5,7 @@
 > +1-781-632-0733
 
 ## Profile
-Experienced engineering manager eager to lead a diverse team. Experienced in developing software to enable highly automated workflows for the manufacture of patient-specific prosthetic devices. I enjoy tackling problems and finding answers, especially if the problem requires learning new tools or methods.
+Experienced engineering manager eager to lead a diverse team. Successfully developed software to enable highly automated workflows for the manufacture of patient-specific prosthetic devices. I enjoy tackling problems and finding answers, especially if the problem requires learning new tools or methods.
 
 ## Experience
 
