@@ -45,10 +45,10 @@ Continued role of mentor to software team, as architecture owner of DENTSPLY Imp
 
 Achieved goal of delivering project to convert 10% of business to web-based order entry.
 
-_Consulting Software Engineer, __Astra Tech, Inc, Waltham, MA__
+_Consulting Software Engineer_, __Astra Tech, Inc, Waltham, MA__
 January 2009 - August 2010
 
-_Principal Software Engineer, __Astra Tech, Inc, Cambridge, MA__
+_Principal Software Engineer_, __Astra Tech, Inc, Cambridge, MA__
 January 2007 - January 2009
 
 Leader on development team of twelve (12) software engineers.  Focused on mentoring teammates on best practices, particularly with the Ruby on Rails web application framework. Interfaced with all aspects of a global organization to determine software requirements. Continued development on three (3) enterprise software applications that incorporated parameterized geometric models and expert systems to aid in the manufacture of abutments for dental implants. Installed and maintained tools for software development: source control, issue tracking, continuous integration dashboard, release documentation, and web log.  Gathered requirements, documented design, implemented code, released software, tracked bugs, and patched software.
@@ -60,13 +60,13 @@ Integrated existing proprietary CAD system with new ERP system, leveraging libra
 
 Software Lead for the company's first lab-based scanning integration project.  Converted 15% of the business to all-digital order entry, reducing Cost-of-Goods sold.
 
-_Senior Software Engineer, __Atlantis Components, Inc, Cambridge, MA__
+_Senior Software Engineer_, __Atlantis Components, Inc, Cambridge, MA__
 June 2004 - January 2007
 
-_Senior Engineer, __Atlantis Components, Inc, Cambridge, MA__
+_Senior Engineer_, __Atlantis Components, Inc, Cambridge, MA__
 September 2002 - June 2004
 
-_Mechanical Engineer, __Atlantis Components, Inc, Cambridge, MA__
+_Mechanical Engineer_, __Atlantis Components, Inc, Cambridge, MA__
 August 2000 - September 2002
 
 An early member of the engineering team, contributed immediately by delivering software tools to reduce labor in the scan & design steps of the Atlantis process.  Acquired skills to implement software development best practices. As the team grew, worked as a mentor to other members.
