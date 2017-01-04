@@ -9,8 +9,7 @@ Experienced engineering manager eager to lead a diverse team. Experienced in dev
 
 ## Experience
 
-_Director, Global Digital Product Development_, __Dentsply Sirona Implants - Waltham, MA__
-`Jun 2014 - Present`
+__Director, Global Digital Product Development__, _Dentsply Sirona Implants - Waltham, MA_, Jun 2014 - Present
 
 Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.  Responsible for defining and delivering software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing for commercialization with end-user documentation, training materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Research & Development.
 
@@ -28,8 +27,7 @@ Initiated and completed project to connect 3rd major dental CAD system with Dent
 
 Delivered product enhancements to support 100% growth in yearly unit volume for innovative digital product.
 
-_Manager, Global Digital Product Development_, __DENTSPLY Implants - Waltham, MA__
-`Aug 2010 - May 2014`
+__Manager, Global Digital Product Development__, _DENTSPLY Implants - Waltham, MA_, Aug 2010 - May 2014
 
 On-boarded five (5) new hires.
 
@@ -45,11 +43,9 @@ Continued role of mentor to software team, as architecture owner of DENTSPLY Imp
 
 Achieved goal of delivering project to convert 10% of business to web-based order entry.
 
-_Consulting Software Engineer_, __Astra Tech, Inc - Waltham, MA__
-`Jan 2009 - Aug 2010`
+__Consulting Software Engineer__, _Astra Tech, Inc - Waltham, MA_, Jan 2009 - Aug 2010
 
-_Principal Software Engineer_, __Astra Tech, Inc - Cambridge, MA__
-`Jan 2007 - Jan 2009`
+__Principal Software Engineer__, _Astra Tech, Inc - Cambridge, MA_, Jan 2007 - Jan 2009
 
 Leader on development team of twelve (12) software engineers.  Focused on mentoring teammates on best practices, particularly with the Ruby on Rails web application framework. Interfaced with all aspects of a global organization to determine software requirements. Continued development on three (3) enterprise software applications that incorporated parameterized geometric models and expert systems to aid in the manufacture of abutments for dental implants. Installed and maintained tools for software development: source control, issue tracking, continuous integration dashboard, release documentation, and web log.  Gathered requirements, documented design, implemented code, released software, tracked bugs, and patched software.
 Lead developer on integration efforts.
@@ -60,39 +56,29 @@ Integrated existing proprietary CAD system with new ERP system, leveraging libra
 
 Software Lead for the company's first lab-based scanning integration project.  Converted 15% of the business to all-digital order entry, reducing Cost-of-Goods sold.
 
-_Senior Software Engineer_, __Atlantis Components, Inc - Cambridge, MA__
-`Jun 2004 - Jan 2007`
+__Senior Software Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Jun 2004 - Jan 2007
 
-_Senior Engineer_, __Atlantis Components, Inc - Cambridge, MA__
-`Sep 2002 - Jun 2004`
+__Senior Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Sep 2002 - Jun 2004
 
-_Mechanical Engineer_, __Atlantis Components, Inc - Cambridge, MA__
-`Aug 2000 - Sep 2002`
+__Mechanical Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Aug 2000 - Sep 2002
 
 An early member of the engineering team, contributed immediately by delivering software tools to reduce labor in the scan & design steps of the Atlantis process.  Acquired skills to implement software development best practices. As the team grew, worked as a mentor to other members.
 
 Designed and implemented applications to automate the design and manufacture of dental implant abutments.
 
-_Product Engineer_, __Freudenberg-NOK General Partnership - Bristol, NH__
-`Jun 1996 - Sep 1999`
+__Product Engineer__, _Freudenberg-NOK General Partnership - Bristol, NH_, Jun 1996 - Sep 1999
 
 Leader of a cross–functional team supporting custom designed oil seals for the Aerospace and Automotive industry. Managed product process from initial design and quoting to production launching and troubleshooting. Experienced in compression, transfer and injection molding processes. Created test plans for material & product development. Participated in Kaizen activity to implement lean manufacturing processes. Involved in implementation of quality systems to meet FAA and customer requirements.
 
 ## Education
 
-__DENTSPLY International Leadership Series - Frankfurt DEU__
+__Advanced Management Practices__, _DENTSPLY International Leadership Series - Frankfurt DEU_, May 2014
 
-Advanced Management Practices `May 2014`
+__M.S. in Computer Science__, _Boston University, Metropolitan College – Boston, MA_, Sep 2013
 
-__Boston University, Metropolitan College – Boston, MA__
+__Undergraduate Certificate in Software Development__, _Boston University, Metropolitan College – Boston, MA_, May 2010
 
-M.S. in Computer Science  `Sep 2013`
-
-Undergraduate Certificate in Software Development  `May 2010`
-
-__University of Michigan, College of Engineering – Ann Arbor, MI__
-
-B.S.E. (Mechanical Engineering)  `May 1996`
+__B.S.E. (Mechanical Engineering)__, _University of Michigan, College of Engineering – Ann Arbor, MI_, May 1996
 
 ## Keywords
 Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information, KanBan, Kaizen, Agile, Ruby, Javascript, C/C++, SQL, Java, Python, PHP, BASH, LOGO, Windows, Mac OS, Linux, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
