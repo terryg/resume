@@ -17,13 +17,13 @@ On-boarded three (3) new hires.
 
 Authored strategy white paper for connectivity to data acquisition devices and networks in the dental industry.  Strategy adopted by $75M global business experiencing double-digit growth.
 
-Member of team that conducted due diligence for potential acquisition of competitor.  Authored team's report and participated in process that ultimately decided to not pursue the acquisition.
+Member of team that conducted due diligence for potential acquisition of competitor.  Authored team's report and participated decision making process, with the business accepting the team's recommendation.
 
 Achieved goal of integration with an intraoral scanning system.  Intitiated and completed project to connect 1st major intraoral scanning systems with Dentsply Sirona Implants' centralized design & manufacturing facilities.  Negotiated agreement and managed relationship with business partner and managed cross-functional team that implemented the project. Project completion resulted in Marketing's launch at the premier implantology forum & trade show in Europe.
 
 Initiated and completed project to connect 2nd major intraoral scanning system with Dentsply Sirona Implants' centralized design & manufacturing facilities.
 
-Initiated and completed project to connect 3rd major dental CAD system with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
+Developed business relationship with 3rd major dental CAD system vendor.  Negotiated business agreement.  Inititated and completed project to connect partner's system with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
 
 Delivered product enhancements to support 100% growth in yearly unit volume for innovative digital product.
 
@@ -37,9 +37,9 @@ Achieved goal of delivering projects that resulted in >50% of business via web-b
 
 Achieved goal of launching company's first digital product.
 
-Involved in business development, interfacing with outside partners to define shared goals and objectives. Executed business agreements.
+Business development activities included interfacing with outside partners to define shared goals and objectives. 
 
-Continued role of mentor to software team, as architecture owner of DENTSPLY Implants' web-based order entry platform.
+Mentor to software team, as architecture owner of DENTSPLY Implants' web-based order entry platform.
 
 Achieved goal of delivering project to convert 10% of business to web-based order entry.
 
