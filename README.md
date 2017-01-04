@@ -23,7 +23,7 @@ Achieved goal of integration with an intraoral scanning system.  Intitiated and 
 
 Initiated and completed project to connect 2nd major intraoral scanning system with Dentsply Sirona Implants' centralized design & manufacturing facilities.
 
-Developed business relationship with 3rd major dental CAD system vendor.  Negotiated business agreement.  Inititated and completed project to connect partner's system with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
+Developed business relationship with major dental CAD system vendor.  Negotiated business agreement.  Inititated and completed project to connect partner's system with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
 
 Delivered product enhancements to support 100% growth in yearly unit volume for innovative digital product.
 
