@@ -5,7 +5,7 @@
 > +1-781-632-0733
 
 ## Profile
-Experienced engineering manager eager to lead a diverse team. Successfully developed software to enable highly automated workflows for the manufacture of patient-specific prosthetic devices. I enjoy tackling problems and finding answers, especially if the problem requires learning new tools or methods.
+Experienced engineering manager eager to lead a diverse team. Successfully developed software to enable highly automated workflows for the manufacture of patient-specific prosthetic devices. Enjoys tackling problems and finding solutions, especially if the problem requires learning new tools or methods.
 
 ## Experience
 
@@ -17,7 +17,7 @@ On-boarded three (3) new hires.
 
 Authored strategy white paper for connectivity to data acquisition devices and networks in the dental industry.  Strategy adopted by $75M global business experiencing double-digit growth.
 
-Member of team that conducted due diligence for potential acquisition of competitor.  Authored team's report and participated decision making process, with the business accepting the team's recommendation.
+Member of team that conducted due diligence for potential acquisition of competitor.  Authored team's report and participated in decision making process, with the business accepting the team's recommendation.
 
 Achieved goal of integration with an intraoral scanning system.  Intitiated and completed project to connect 1st major intraoral scanning systems with Dentsply Sirona Implants' centralized design & manufacturing facilities.  Negotiated agreement and managed relationship with business partner and managed cross-functional team that implemented the project. Project completion resulted in Marketing's launch at the premier implantology forum & trade show in Europe.
 
