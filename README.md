@@ -64,7 +64,7 @@ __Mechanical Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Aug 2000 - 
 
 An early member of the engineering team, contributed immediately by delivering software tools to reduce labor in the scan & design steps of the Atlantis process.  Acquired skills to implement software development best practices. As the team grew, worked as a mentor to other members.
 
-Designed and implemented applications to automate the design and manufacture of dental implant abutments.
+Developed applications to automate the design and manufacture of dental implant abutments.
 
 __Product Engineer__, _Freudenberg-NOK General Partnership - Bristol, NH_, Jun 1996 - Sep 1999
 
