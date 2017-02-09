@@ -11,7 +11,7 @@ Experienced engineering manager eager to develop automation systems for the desi
 
 __Director, Global Digital Product Development__, _Dentsply Sirona Implants - Waltham, MA_, Jun 2014 - Present
 
-Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.  Responsible for defining and delivering software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing for commercialization with end-user documentation, training materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Research & Development.
+Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.  Responsible for defining and delivering software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Responsible for assembling cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing & Sales for commercialization with end-user documentation, training materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to VP of Research & Development.
 
 On-boarded three (3) new hires.
 
@@ -19,13 +19,13 @@ Authored strategy white paper for connectivity to data acquisition devices and n
 
 Member of team that conducted due diligence for potential acquisition of competitor.  Authored team's report and participated in decision making process, with the business accepting the team's recommendation.
 
-Achieved goal of integration with an intraoral scanning system.  Intitiated and completed project to connect 1st major intraoral scanning systems with Dentsply Sirona Implants' centralized design & manufacturing facilities.  Negotiated agreement and managed relationship with business partner and managed cross-functional team that implemented the project. Project completion resulted in Marketing's launch at the premier implantology forum & trade show in Europe.
+Achieved goal of integration with an intraoral scanning system.  Intitiated and completed project to connect 1st major intraoral scanning system with Dentsply Sirona Implants' centralized design & manufacturing facilities.  Negotiated agreement and managed relationship with business partner and managed cross-functional team that implemented the project. Project completion resulted in service launch at the premier implantology forum & trade show in Europe.
 
 Initiated and completed project to connect 2nd major intraoral scanning system with Dentsply Sirona Implants' centralized design & manufacturing facilities.
 
 Developed business relationship with major dental CAD system vendor.  Negotiated business agreement.  Inititated and completed project to connect partner's system with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
 
-Delivered product enhancements to support 100% growth in yearly unit volume for innovative digital product.
+Delivered service enhancements to support 100% growth in yearly unit volume for innovative digital product.
 
 __Manager, Global Digital Product Development__, _DENTSPLY Implants - Waltham, MA_, Aug 2010 - May 2014
 
