@@ -76,7 +76,7 @@ __Advanced Management Practices__, _DENTSPLY International Leadership Series - F
 
 __M.S. in Computer Science__, _Boston University, Metropolitan College – Boston, MA_, Sep 2013
 
-__Undergraduate Certificate in Software Development__, _Boston University, Metropolitan College – Boston, MA_, May 2010
+__Certificate in Software Development__, _Boston University, Metropolitan College – Boston, MA_, May 2010
 
 __B.S.E. (Mechanical Engineering)__, _University of Michigan, College of Engineering – Ann Arbor, MI_, May 1996
 
