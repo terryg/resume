@@ -11,9 +11,9 @@ Experienced engineering manager eager to develop automation systems for the desi
 
 __Director, Global Digital Product Development__, _Dentsply Sirona Implants - Waltham, MA_, Jun 2014 - Present
 
-Managed interdisciplinary team of five (5) direct reports. Collaborated with colleagues from Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.  Defined and delivered software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions. Assembled cross-functional teams, planning, and scheduling projects. Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Delivered projects to Marketing & Sales for commercialization with end-user documentation, training materials, and ongoing support.  Responsible for budgeting, with ~$200,000 of discretionary and capital expenditures per year. Reported to Head of Research & Development.
+Defined software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions.  Delivered projects to Marketing & Sales for commercialization with end-user documentation, training materials, and ongoing support.  Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Collaborated with colleagues across the organization: Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.   Planned, assembled cross-functional teams, and managed projects.  Managed $200,000 of discretionary and capital expenditures per year. Reported to Head of Research & Development.
 
-On-boarded three (3) new hires.
+Managed interdisciplinary team of five (5) direct reports. On-boarded three (3) new hires.
 
 Authored strategy for connectivity to data acquisition devices and networks in the dental industry.  Strategy adopted by $75M global business experiencing double-digit growth.
 
