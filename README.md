@@ -52,8 +52,6 @@ Lead developer on integration efforts.
 
 Supported transfer of technology to second source in Mölndal, Sweden.
 
-Integrated existing proprietary CAD system with new ERP system, leveraging library developed using the Data Access Object pattern.
-
 Software Lead for the company's first lab-based scanning integration project.
 
 __Senior Software Engineer__, _Atlantis Components, Inc - Cambridge, MA_, Jun 2004 - Jan 2007
