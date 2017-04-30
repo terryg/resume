@@ -11,19 +11,19 @@ Experienced engineering manager eager to develop automation systems for the desi
 
 __Director, Global Digital Product Development__, _Dentsply Sirona Implants - Waltham, MA_, Jun 2014 - Present
 
-Defined software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions.  Delivered projects to Marketing & Sales for commercialization with end-user documentation, training materials, and ongoing support.  Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Collaborated with colleagues across the organization: Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.   Planned, assembled cross-functional teams, and managed projects.  Managed $200,000 of discretionary and capital expenditures per year. Reported to Head of Research & Development.
+Defined software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions.  Delivered projects to Marketing & Sales for commercialization with end-user documentation, training materials, and ongoing support.  Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Collaborated with colleagues across the organization: Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.   Planned, assembled cross-functional teams, and managed projects.  Managed $200,000 of discretionary and capital expenditures per year. Reported to head of Research & Development.
 
 Managed interdisciplinary team of five (5) direct reports. On-boarded three (3) new hires.
 
 Authored strategy for connectivity to data acquisition devices and networks in the dental industry.  Strategy adopted by $75M global business experiencing double-digit growth.
 
-Member of team that conducted due diligence for potential acquisition of competitor.  Authored team's report and participated in decision making process.
+Member of team that conducted due diligence for acquisition.  Authored team's report and participated in decision making process.
 
 Achieved goal of integration with an intraoral scanning system.  Intitiated and completed project to connect 1st major intraoral scanning system with Dentsply Sirona Implants' centralized design & manufacturing facilities.  Developed relationship and negotiated agreement with business partner. Project completion resulted in service launch at the premier implantology forum & trade show in Europe.
 
 Initiated and completed project to connect 2nd major intraoral scanning system with Dentsply Sirona Implants' centralized design & manufacturing facilities.
 
-Developed relationship with major dental CAD system vendor.  Negotiated business agreement.  Inititated and completed project to connect partner's system with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
+Developed relationship with major dental CAD system vendor.  Negotiated business agreement.  Inititated and completed project to connect partner's software with Dentsply Sirona Implants. Project completion resulted in Marketing Launch at the largest trade show for dental laboratories in North America.
 
 Delivered service enhancements to support 100% growth in yearly unit volume for innovative digital product.
 
