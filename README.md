@@ -68,6 +68,8 @@ __Product Engineer__, _Freudenberg-NOK General Partnership - Bristol, NH_, Jun 1
 
 Leader of a cross–functional team supporting custom designed oil seals for the Aerospace and Automotive industry. Managed product process from initial design and quoting to production launching and troubleshooting. Experienced in compression, transfer and injection molding processes. Created test plans for material & product development. Participated in Kaizen activity to implement lean manufacturing processes. Involved in implementation of quality systems to meet FAA and customer requirements.
 
+__US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES
+
 ## Education
 
 __Advanced Management Practices__, _DENTSPLY International Leadership Series - Frankfurt DEU_, May 2014
