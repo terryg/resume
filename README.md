@@ -9,7 +9,11 @@ Experienced engineering manager eager to develop automation systems for the desi
 
 ## Experience
 
-__Director, Global Digital Product Development__, _Dentsply Sirona Implants - Waltham, MA_, Jun 2014 - Present
+__Vice President of Software__, _Signature Orthodontics, Inc. - Boston, MA_, Aug 2017 - present
+
+Created software development plan, defined software architecture, supported 510(k) submittal, prepared production systems for first sale.
+
+__Director, Global Digital Product Development__, _Dentsply Sirona Implants - Waltham, MA_, Jun 2014 - Aug 2017
 
 Defined software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions.  Delivered projects to Marketing & Sales for commercialization with end-user documentation, training materials, and ongoing support.  Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Collaborated with colleagues across the organization: Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.   Planned, assembled cross-functional teams, and managed projects.  Managed $200,000 of discretionary and capital expenditures per year. Reported to VP of Research & Development.
 
