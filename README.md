@@ -1,8 +1,12 @@
 # Terry G Lorber
-## Director of Product, Business, and Software Development        
+## Software, Product, and Business Development        
 
 > <tgl@rideside.net>  
 > +1-781-632-0733
+
+> <https://github.com/terryg>
+
+> <https://www.linkedin.com/in/terry-lorber-62a1314/>
 
 ## Profile
 Experienced engineering manager eager to develop automation systems for the design & manufacture of patient-specific medical devices. I enjoy tackling problems and finding answers, especially if the problem requires learning new tools or methods.
@@ -91,5 +95,4 @@ Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, John
 - Eagle Scout
 - UM College of Engineering Leadership Honor Society
 - Brewer, Surfer, Telemark Skier
-- Coder https://github.com/terryg
 
