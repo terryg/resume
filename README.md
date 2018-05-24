@@ -43,13 +43,13 @@ __US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES
 
 ## Education
 
-__Advanced Management Practices__, _DENTSPLY International Leadership Series - Frankfurt DEU_, May 2014
+__Advanced Management Practices__ | _DENTSPLY International Leadership Series - Frankfurt DEU_ | May 2014
 
-__M.S. in Computer Science__, _Boston University, Metropolitan College – Boston, MA_, Sep 2013
+__M.S. in Computer Science__ | _Boston University, Metropolitan College – Boston, MA_ | Sep 2013
 
-__Certificate in Software Development__, _Boston University, Metropolitan College – Boston, MA_, May 2010
+__Certificate in Software Development__ | _Boston University, Metropolitan College – Boston, MA_ | May 2010
 
-__B.S.E. (Mechanical Engineering)__, _University of Michigan, College of Engineering – Ann Arbor, MI_, May 1996
+__B.S.E. (Mechanical Engineering)__ | _University of Michigan, College of Engineering – Ann Arbor, MI_ | May 1996
 
 ## Keywords
 Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information, KanBan, Kaizen, Agile, Ruby, Javascript, C/C++, SQL, Java, Python, PHP, BASH, LOGO, Windows, Mac OS, Linux, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
