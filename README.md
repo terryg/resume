@@ -15,7 +15,7 @@ Experienced engineering manager eager to develop automation systems for the desi
 
 __Vice President of Software Engineering__ 
 
-_Signature Orthodontics, Inc. - Boston, MA_ | Aug 2017 - present
+_Signature Orthodontics, Inc - Boston, MA_ | Aug 2017 - present
 
 Created software development plan, defined software architecture, supported 510(k) submittal, prepared production systems for first sale.
 
