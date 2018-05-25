@@ -37,7 +37,9 @@ __Consulting Software Engineer__
 
 _Astra Tech, Inc - Waltham, MA_ | Jan 2007 - Jul 2010
 
-__Senior Software Engineer__ | _Atlantis Components, Inc - Cambridge, MA_ | Aug 2000 - Jan 2007
+__Senior Software Engineer__
+
+_Atlantis Components, Inc - Cambridge, MA_ | Aug 2000 - Jan 2007
 
 An early member of the engineering team, contributed immediately by delivering software tools to reduce labor in the scan & design steps of the Atlantis process.  Acquired skills to implement software development best practices.
 
