@@ -17,39 +17,37 @@ __Vice President of Software Engineering__
 
 _Signature Orthodontics, Inc - Boston, MA_ | Aug 2017 - present
 
-Created software development plan, defined software architecture, supported 510(k) submittal, prepared production systems for first sale.
+One (1) direct report. Created software development plan, defined software architecture, supported 510(k) submittal, prepared production systems for first sale. JavaScript, Ruby, C++, Docker, NGINX, Postgresql, Ubuntu, Git, Azure DevOps, Azure. 
 
 __Director, Global Digital Product Development__
 
 _Dentsply Sirona Implants - Waltham, MA_ | Jun 2014 - Aug 2017
 
-Defined software-based products to support and expand upon Dentsply Sirona Implants' Digital Solutions.  Delivered projects to Marketing & Sales for commercialization with end-user documentation, training materials, and ongoing support.  Project work required defining use cases, specifications, and interface requirements for both internal software developers and external business partners.  Collaborated with colleagues across the organization: Marketing & Communications, Operations, QA/RA, Customer Service, and Sales organizations.  Developed business cases and promoted R&D activities in line with business strategy.   Planned, assembled cross-functional teams, and managed projects.  Managed $200,000 of discretionary and capital expenditures per year. Reported to VP of Research & Development.
-
-Authored strategy for connectivity to data acquisition devices and networks in the dental industry.  Strategy adopted by $75M global business experiencing double-digit growth.
+Five (5) direct reports. C++, Ruby, Rails, Capistrano, NGINX, Postgresql, CentOS, Subversion, Bugzilla, rackspace.com
 
 __Manager, Global Digital Product Development__
 
 _DENTSPLY Implants - Waltham, MA_ | Aug 2010 - May 2014
 
-Negotiated and completed collaboration agreements between business partners and DENTSPLY Implants to enable sharing of case information, including scan data, from partner's software to DENTSPLY Implants' design & manufacturing centers.
+Five (3) direct reports. Developed business relationships and implemented collaboration agreements.  Ruby, Rails, Capistrano, Apache, Postgresql, CentOS, Subversion, Bugzilla, rackspace.com  
 
 __Consulting Software Engineer__
 
 _Astra Tech, Inc - Waltham, MA_ | Jan 2007 - Jul 2010
 
-Lead software development of dental industry's first digital workflow for dental implant abutments.  Developed RESTful API and C++ client in collaboration with business partner.
+Developed RESTful API and C++ client in collaboration with business partner. Dental industry's first digital workflow for dental implant abutments. Ruby, Rails, Capistrano, Apache, Postgresql, CentOS, Subversion, Bugzilla, rackspace 
 
 __Senior Software Engineer__
 
 _Atlantis Components, Inc - Cambridge, MA_ | Aug 2000 - Jan 2007
 
-
+Developed applications to automate 3D data processing. C++, Ruby, Rails, Apache, Postgresql, RedHat, CVS, Bugzilla, CMake, Cygwin.
 
 __Product Engineer__
 
 _Freudenberg-NOK General Partnership - Bristol, NH_ | Jun 1996 - Sep 1999
 
-A great experience in manufacturing.
+My first and great experience in Kaizen.
 
 __US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES
 
