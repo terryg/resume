@@ -37,6 +37,8 @@ __Consulting Software Engineer__
 
 _Astra Tech, Inc - Waltham, MA_ | Jan 2007 - Jul 2010
 
+Lead software development of dental industry's first digital workflow for dental implant abutments.  Developed RESTful API and C++ client in collaboration with business partner.
+
 __Senior Software Engineer__
 
 _Atlantis Components, Inc - Cambridge, MA_ | Aug 2000 - Jan 2007
