@@ -43,15 +43,13 @@ __Senior Software Engineer__
 
 _Atlantis Components, Inc - Cambridge, MA_ | Aug 2000 - Jan 2007
 
-An early member of the engineering team, contributed immediately by delivering software tools to reduce labor in the scan & design steps of the Atlantis process.  Acquired skills to implement software development best practices.
 
-Developed applications to automate the design and manufacture of dental implant abutments.
 
 __Product Engineer__
 
 _Freudenberg-NOK General Partnership - Bristol, NH_ | Jun 1996 - Sep 1999
 
-Leader of a cross–functional team supporting custom designed oil seals for the Aerospace and Automotive industry. Managed product process from initial design and quoting to production launching and troubleshooting. Experienced in compression, transfer and injection molding processes. Created test plans for material & product development. Participated in Kaizen activity to implement lean manufacturing processes. Involved in implementation of quality systems to meet FAA and customer requirements.
+A great experience in manufacturing.
 
 __US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES
 
