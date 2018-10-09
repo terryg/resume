@@ -37,8 +37,8 @@ __US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES
 Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information, KanBan, Kaizen, Agile, Ruby, Javascript, C/C++, SQL, Java, Python, PHP, BASH, LOGO, Windows, Mac OS, Linux, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
 
 ## Honors & Interests
-- Eagle Scout | Concord, NH | 1991
-- UM College of Engineering Leadership Honor Society | Ann Arbor, MA | 1996
+- Eagle Scout Troop 295 | Concord, NH | 1991
+- UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1995-1996
 - Town Meeting Member | Swampscott, MA | 2018-2019 
 - Cubmaster Pack 55 | Swampscott, MA | 2018-2019 
-- Brewer, Surfer, Telemark Skier
+- Programmer, Brewer, Surfer, Telemark Skier
