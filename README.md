@@ -11,13 +11,12 @@
 > <https://www.linkedin.com/in/terry-lorber-62a1314/>
 
 ## Profile
-Team leader for software development. I've led project planning and implementation for startups to mature ($100MM) global businesses.
-Experienced project manager within quality systems (ISO 9000, 21 CFR 820).
+Consensus-building leader of cross-functional product development teams. I've led project planning and implementation for startups to mature ($100MM) global businesses.  Pro-active project manager experienced with quality systems (ISO 9000, 21 CFR 820).
 
 ## Experience
 
-| Title | Company | Location | Timeline | Notes | Tech |
-|-------|---------|----------|----------|-------|------|
+| Title              | Company                      | Location        | Timeline    | Notes         | Tech          |
+|--------------------|------------------------------|-----------------|-------------|---------------|---------------|
 | __VP of Software__ | _Signature Orthodontics Inc_ | _Cambridge, MA_ | Aug 2017 - present | One (1) direct report. Created software development plan, defined software architecture, supported 510(k) submittal, prepared production systems for first sale. | JavaScript, Ember.js, three.js, Ruby, C++, Docker, NGINX, Postgresql, Ubuntu, Git, bash, Azure DevOps, Azure |
 | __Director, Global Digital Product Development__ | _Dentsply Sirona Implants_ | _Waltham, MA_ | Jun 2014 - Aug 2017 | Five (5) direct reports. Developed strategy and project plans to increase business unit's reach into digital markets. | C++, Ruby, Rails, Capistrano, NGINX, Postgresql, CentOS, Subversion, Bugzilla, Cygwin, bash, rackspace.com |
 | __Manager, Global Digital Product Development__ | _DENTSPLY Implants_ | _Waltham, MA_ | Aug 2010 - May 2014 | Five (5) direct reports. Developed business relationships and implemented collaboration agreements. | Ruby, Rails, Capistrano, Apache, Postgresql, CentOS, Subversion, Bugzilla, Cygwin, bash, rackspace.com |
@@ -37,7 +36,7 @@ __US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES
 | __B.S.E. (Mechanical Engineering)__ | _University of Michigan, College of Engineering_ | _Ann Arbor, MI_ | May 1996 |
 
 ## Keywords
-Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information, KanBan, Kaizen, Agile, Ruby, Javascript, C/C++, SQL, Java, Python, PHP, BASH, LOGO, Windows, Mac OS, Linux, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
+Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information, KanBan, Kaizen, Agile, Ruby, JavaScript, C/C++, R, SQL, Java, Python, PHP, BASH, LOGO, Windows, Mac OS, Linux, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
 
 ## Honors & Interests
 - Eagle Scout Troop 295 | Concord, NH | 1991
