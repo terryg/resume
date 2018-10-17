@@ -11,7 +11,7 @@
 > <https://www.linkedin.com/in/terry-lorber-62a1314/>
 
 ## Profile
-Consensus-building leader of cross-functional product development teams. I've led project planning and implementation for startups to mature ($100MM) global businesses.  Pro-active project manager experienced with quality systems (ISO 9000, 21 CFR 820).
+Consensus-building leader of cross-functional product development teams. I've developed strategy and implemented product roadmaps for startups to mature ($100MM) global businesses. Pro-active project manager experienced with quality systems (ISO 9000, 21 CFR 820).
 
 ## Experience
 
