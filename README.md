@@ -11,8 +11,8 @@
 > <https://www.linkedin.com/in/terry-lorber-62a1314/>
 
 ## Profile
-Team leader for software development. I've led project planning and implementation for startups and mature ($100M) global businesses.
-Experienced project manager within quality systems (ISO 9000, 21 CFR 820). 
+Team leader for software development. I've led project planning and implementation for startups to mature ($100MM) global businesses.
+Experienced project manager within quality systems (ISO 9000, 21 CFR 820).
 
 ## Experience
 
