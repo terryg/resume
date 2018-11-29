@@ -1,7 +1,8 @@
 # Terry G Lorber
 ## Software, Product, and Business Development        
 
-> <tgl@rideside.net>  
+> <tgl@rideside.net> 
+>
 > +1-781-632-0733
 >
 > <https://github.com/terryg>
@@ -36,7 +37,19 @@ __US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES
 | __B.S.E. (Mechanical Engineering)__ | _University of Michigan, College of Engineering_ | _Ann Arbor, MI_ | May 1996 |
 
 ## Keywords
-Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information, KanBan, Kaizen, Agile, Ruby, JavaScript, C/C++, R, SQL, Java, Python, PHP, BASH, LOGO, Windows, Mac OS, Linux, Ubuntu, RHEL, Emacs, Git, Subversion, Cygwin, CMake, Visual Studio, Eclipse, VTK, FLTK, KWWidgets, Win32 API, Unigraphics NX API, OpenGL, Ruby on Rails, Prototype, Script.aculo.us, Drupal, MFC, Unidraw, Heroku, AWS S3, Hadoop
+
+| Topic              | Skills                                                      |
+|--------------------|-------------------------------------------------------------|
+| Computer Languages | JavaScript, Ruby, C\//C++, R, SQL, Java, Python, BASH, Logo |
+| Operating Systems | Linux, Ubuntu, CentOS, Windows, Mac OS |
+| Protocols & APIs | XML, JSON, REST |
+| Databases | PostgreSQL, Redis, MySQL, MongoDB, Sqlite3, Microsoft SQL |
+| Web & App servers | NGINX, Apache, puma, thin |
+| Tools | Git, Emacs, Azure DevOps (visualstudio.com), Subversion, Cygwin, CMake, Heroku, AWS S3,  Hadoop |
+| Frameworks | Ember.js, Sinatra.rb, three.js, OpenGL, Ruby on Rails, VTK, CGAL, FLTK, Unidraw |
+| Methodology | KanBan, Kaizen, Agile, Continuous Improvement |
+| Reading | Brooks' The Mythical Man-Month, DeMarco \| Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information |
+
 
 ## Honors & Interests
 - Eagle Scout Troop 295 | Concord, NH | 1991
