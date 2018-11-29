@@ -40,7 +40,7 @@ __US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES
 
 | Topic              | Skills                                                      |
 |--------------------|-------------------------------------------------------------|
-| Computer Languages | JavaScript, Ruby, C\//C++, R, SQL, Java, Python, BASH, Logo |
+| Computer Languages | JavaScript, Ruby, C\//C++, R, SQL, Java, Python, bash, Logo |
 | Operating Systems | Linux, Ubuntu, CentOS, Windows, Mac OS |
 | Protocols & APIs | XML, JSON, REST |
 | Databases | PostgreSQL, Redis, MySQL, MongoDB, Sqlite3, Microsoft SQL |
