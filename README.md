@@ -18,7 +18,7 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 | Title              | Company                      | Location        | Timeline    | Notes         | Tech          |
 |--------------------|------------------------------|-----------------|-------------|---------------|---------------|
-| __Principal__ | _Meta Tooth LLC_             | _Swampscott, MA_      | Dec 2018 - present  | dental technology | Node, Vue.js, Google Firebase, JavaScript, BitBucket Pipelines, WordPress, Heroku, AWS S3 & EC2 |
+| __Principal__ | _Meta Tooth LLC_             | _Swampscott, MA_      | Dec 2018 - present  | Technology for dentists, dental labs, startups, and consumers. | Node, Vue.js, Google Firebase, JavaScript, BitBucket Pipelines, WordPress, Heroku, AWS S3 & EC2 |
 | __VP of Software__ | _Signature Orthodontics Inc_ | _Cambridge, MA_ | Aug 2017 - Dec 2018 | Responsible for medical device and workflow software in support of company's first sale.  Led development and growth of software team. Contributed system architecture, implementation, regulatory documentation, project management, and product management.  <br/> __K181271__ Signature Orthodontics System <br/> __K183542__ Signature Orthodontics System | JavaScript, Ember.js, three.js, Ruby, C++, Docker, NGINX, Postgresql, Ubuntu, Git, bash, Azure DevOps, Azure |
 | __Director, Global Digital Product Development__ | _Dentsply Sirona Implants_ | _Waltham, MA_ | Jun 2014 - Aug 2017 | Responsible for strategy and project planning to meet business goals of networked workflows.  Led development of data analysis & visualization tools to identify key performance indicators. <br/> __US Patent #D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES | C++, Ruby, Rails, Capistrano, NGINX, Postgresql, CentOS, Subversion, Bugzilla, Cygwin, bash, rackspace.com |
 | __Manager, Global Digital Product Development__ | _DENTSPLY Implants_ | _Waltham, MA_ | Aug 2010 - May 2014 | Responsible for business relationships and collaboration agreements with Partners on digital workflows.  Led development of API to meet business objectives.| Ruby, Rails, Capistrano, Apache, Postgresql, CentOS, Subversion, Bugzilla, Cygwin, bash, rackspace.com |
@@ -41,12 +41,12 @@ Consensus-building leader of cross-functional product development teams. I've de
 |--------------------|-------------------------------------------------------------|
 | Computer Languages | Bash, C++, Java, JavaScript, R, Ruby |
 | Operating Systems | Mac OS, Ubuntu, Windows |
-| Protocols & APIs | XML, JSON, REST |
-| Databases | PostgreSQL, Redis, MySQL, MongoDB, Sqlite3, Microsoft SQL |
-| Web & App servers | NGINX, Apache, puma, thin |
-| Tools | Jira, BitBucket Pipelines, Git, Emacs, Visual Studio Code, Azure DevOps, Subversion, Cygwin, CMake, Heroku, AWS S3 & EC2,  Hadoop |
-| Frameworks | Vue.js, Node, Sinatra.rb, three.js, OpenGL, Ruby on Rails, VTK, CGAL, FLTK, Unidraw |
-| Methodology | KanBan, Kaizen, Agile, Continuous Improvement |
+| Protocols & APIs | REST, JSON, XML |
+| Databases | Microsoft SQL, MongoDB, MySQL, PostgreSQL, Redis, Sqlite3 |
+| Web & App servers | Apache, puma, NGINX, thin |
+| Tools | AWS S3 & EC2, Azure DevOps, BitBucket Pipelines, CMake, Cygwin, Emacs, eslint, Git, Hadoop, Jira, ruby-lint, rubocop, Subversion,  Visual Studio Code, webpack |
+| Frameworks | CGAL, FLTK, Node, OpenGL, Ruby on Rails, Sinatra.rb, three.js, VTK, Vue.js, Unidraw |
+| Methodology | Agile, Continuous Improvement, Kaizen, KanBan |
 | Reading | Brooks' The Mythical Man-Month, DeMarco \| Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information |
 
 
