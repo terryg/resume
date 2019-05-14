@@ -39,13 +39,13 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 | Topic              | Skills                                                      |
 |--------------------|-------------------------------------------------------------|
-| Computer Languages | JavaScript, Ruby, C++, R, SQL, Java, Python, bash, Logo |
-| Operating Systems | Linux, Ubuntu, CentOS, Windows, Mac OS |
+| Computer Languages | Bash, C++, Java, JavaScript, R, Ruby |
+| Operating Systems | Mac OS, Ubuntu, Windows |
 | Protocols & APIs | XML, JSON, REST |
 | Databases | PostgreSQL, Redis, MySQL, MongoDB, Sqlite3, Microsoft SQL |
 | Web & App servers | NGINX, Apache, puma, thin |
-| Tools | Git, Emacs, Azure DevOps (visualstudio.com), Subversion, Cygwin, CMake, Heroku, AWS S3,  Hadoop |
-| Frameworks | Ember.js, Sinatra.rb, three.js, OpenGL, Ruby on Rails, VTK, CGAL, FLTK, Unidraw |
+| Tools | Jira, BitBucket Pipelines, Git, Emacs, Visual Studio Code, Azure DevOps, Subversion, Cygwin, CMake, Heroku, AWS S3, AWS EC2,  Hadoop |
+| Frameworks | Vue.js, Node, Sinatra.rb, three.js, OpenGL, Ruby on Rails, VTK, CGAL, FLTK, Unidraw |
 | Methodology | KanBan, Kaizen, Agile, Continuous Improvement |
 | Reading | Brooks' The Mythical Man-Month, DeMarco \| Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information |
 
