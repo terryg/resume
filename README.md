@@ -42,12 +42,12 @@ Consensus-building leader of cross-functional product development teams. I've de
 | Computer Languages | Bash, C++, Java, JavaScript, R, Ruby, SQL |
 | Operating Systems | Android, Mac OS, Ubuntu, Windows |
 | Protocols & APIs | JSON, REST, XML |
-| Databases | MS SQL Server, MySQL, PostgreSQL, Redis, Sqlite3 |
+| Databases | Google Firestore, MS SQL Server, MySQL, PostgreSQL, Redis, Sqlite3 |
 | Web & App servers | Apache, NGINX, puma, thin |
-| Tools | AWS, Azure, BitBucket Pipelines, CMake, Cygwin, Emacs, eslint, Git, Hadoop, Jira, ruby-lint, rubocop, Subversion,  Visual Studio Code, webpack |
-| Frameworks | CGAL, FLTK, Node, OpenGL, Ruby on Rails, Sinatra.rb, three.js, VTK, Vue.js, Unidraw |
+| Tools | AWS, Azure, BitBucket Pipelines, CMake, Cygwin, Emacs, eslint, Git, Google Firebase, Hadoop, Heroku, Jira, ruby-lint, rubocop, Subversion, Visual Studio Code, webpack, WordPress |
+| Frameworks | CGAL, FLTK, Node, OpenGL, Ruby on Rails, Sinatra.rb, three.js, Unidraw, VTK, Vue.js, WebGL |
 | Methodology | Agile, Continuous Improvement, Kaizen, KanBan |
-| Reading | Brooks' The Mythical Man-Month, DeMarco \| Lister's Peopleware, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Booch's UML, Fowler's Continuous Integration, Spolsky's Joel on Software, Atwood's Coding Horror, Beck's XP, Tufte's Visual Display of Quantitative Information |
+| Reading | Atwood's Coding Horror, Beck's XP, Booch's UML, Brooks' The Mythical Man-Month, DeMarco \| Lister's Peopleware, Fowler's Continuous Integration, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Spolsky's Joel on Software, Tufte's Visual Display of Quantitative Information |
 
 
 ## Honors & Interests
