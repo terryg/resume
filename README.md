@@ -44,7 +44,7 @@ Consensus-building leader of cross-functional product development teams. I've de
 | Protocols & APIs | JSON, REST, XML |
 | Databases | Google Firestore, MS SQL Server, MySQL, PostgreSQL, Redis, Sqlite3 |
 | Web & App servers | Apache, NGINX, puma, thin |
-| Tools | AWS, Azure, BitBucket Pipelines, CMake, Cygwin, Emacs, eslint, Git, Google Firebase, Hadoop, Heroku, Jira, ruby-lint, rubocop, Subversion, Visual Studio Code, webpack, WordPress |
+| Tools | AWS, Azure, BitBucket Pipelines, CMake, Cygwin, Docker, Emacs, eslint, Git, Google Firebase, Hadoop, Heroku, Jira, ruby-lint, rubocop, Subversion, Visual Studio Code, webpack, WordPress |
 | Frameworks | CGAL, FLTK, Node, OpenGL, Ruby on Rails, Sinatra.rb, three.js, Unidraw, VTK, Vue.js, WebGL |
 | Methodology | Agile, Continuous Improvement, Kaizen, KanBan |
 | Reading | Atwood's Coding Horror, Beck's XP, Booch's UML, Brooks' The Mythical Man-Month, DeMarco \| Lister's Peopleware, Fowler's Continuous Integration, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Spolsky's Joel on Software, Tufte's Visual Display of Quantitative Information |
