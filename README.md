@@ -52,6 +52,6 @@ Consensus-building leader of cross-functional product development teams. I've de
 ## Honors & Interests
 - Eagle Scout Troop 295 | Concord, NH | 1991
 - UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1995-1996
-- Town Meeting Member | Swampscott, MA | 2018-2019 
-- Cubmaster Pack 55 | Swampscott, MA | 2018-2019 
+- Town Meeting Member | Swampscott, MA | 2018-2020
+- Cubmaster Pack 55 | Swampscott, MA | 2018-2020
 - Programmer, Brewer, Surfer, Telemark Skier
