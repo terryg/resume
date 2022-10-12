@@ -1,5 +1,5 @@
 # Terry G Lorber
-## Software, Product, and Business Development        
+## Programmer        
 
 > <tgl@rideside.net> 
 >
