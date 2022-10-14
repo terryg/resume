@@ -40,12 +40,12 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 | Topic              | Skills                                                      |
 |--------------------|-------------------------------------------------------------|
-| Computer Languages | Bash, C++, Java, JavaScript, R, Ruby, SQL |
-| Operating Systems | Android, Browser, Linux (Ubuntu), macOS, Windows |
-| Protocols & APIs | JSON, REST, XML |
-| Databases | Google Firestore, MS SQL Server, MySQL, PostgreSQL, Redis, Sqlite3 |
-| Web & App servers | Apache, NGINX, puma, thin |
-| Tools | AWS, Azure, BitBucket Pipelines, CMake, Cygwin, Docker, Emacs, eslint, GitHub, Google Firebase, Hadoop, Heroku, Jira, ruby-lint, rubocop, Subversion, Visual Studio Code, webpack, WordPress |
+| Computer Languages | Bash, C++, JavaScript, Python, R, Ruby, SQL |
+| Operating Systems | Browsers (Chrome, Firefox), Linux (Ubuntu), macOS, Windows |
+| Protocols & APIs | JSON, REST, RPC, XML |
+| Databases | MySQL, PostgreSQL, Redis, Sqlite3 |
+| Web & App servers | NGINX, puma |
+| Tools | CMake, conan, Docker, Emacs, eslint, git, GitHub, Heroku, Jira, npm, PyCharm, ruby-lint, rubocop, Visual Studio Code, webpack, WordPress |
 | Frameworks | CGAL, FLTK, Node, OpenGL, Ruby on Rails, Sinatra.rb, three.js, vcglib, Unidraw, VTK, Vue.js, WebGL |
 | Methodology | Agile, Continuous Improvement, Kaizen, KanBan |
 | Reading | Atwood's Coding Horror, Beck's XP, Booch's UML, Brooks' The Mythical Man-Month, DeMarco \| Lister's Peopleware, Fowler's Continuous Integration, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Spolsky's Joel on Software, Tufte's Visual Display of Quantitative Information |
@@ -53,7 +53,7 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 ## Honors & Interests
 - Eagle Scout Troop 295 | Concord, NH | 1991
-- UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1995-1996
+- UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1996
 - Town Meeting Member | Swampscott, MA | 2018-2022
 - Cubmaster Pack 55 | Swampscott, MA | 2018-2020
 - Programmer, Hiker, Surfer, Telemark Skier
