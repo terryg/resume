@@ -40,7 +40,7 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 | Topic              | Skills                                                      |
 |--------------------|-------------------------------------------------------------|
-| Computer Languages | Bash, C++, JavaScript, Python, R, Ruby, SQL |
+| Computer Languages | Bash, C/C++, JavaScript, Python, R, Ruby, SQL, TypeScript |
 | Operating Systems | Browsers (Chrome, Firefox), Linux (Ubuntu), macOS, Windows |
 | Protocols & APIs | JSON, REST, RPC, XML |
 | Databases | MySQL, PostgreSQL, Redis, Sqlite3 |
@@ -48,7 +48,7 @@ Consensus-building leader of cross-functional product development teams. I've de
 | Tools | CMake, conan, Docker, Emacs, eslint, git, GitHub, Heroku, Jira, npm, PyCharm, ruby-lint, rubocop, Visual Studio Code, webpack, WordPress |
 | Frameworks | CGAL, FLTK, Node, OpenGL, Ruby on Rails, Sinatra.rb, three.js, vcglib, Unidraw, VTK, Vue.js, WebGL |
 | Methodology | Agile, Continuous Improvement, Kaizen, KanBan |
-| Reading | Atwood's Coding Horror, Beck's XP, Booch's UML, Brooks' The Mythical Man-Month, DeMarco \| Lister's Peopleware, Fowler's Continuous Integration, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Spolsky's Joel on Software, Tufte's Visual Display of Quantitative Information |
+| Reading | Atwood's Coding Horror, Beck's XP, Booch's UML, Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Fowler's Continuous Integration, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Spolsky's Joel on Software, Tufte's Visual Display of Quantitative Information |
 
 
 ## Honors & Interests
