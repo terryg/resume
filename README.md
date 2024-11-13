@@ -1,39 +1,36 @@
 # Terry G Lorber
-## Programmer        
+## Programmer
 
-> <tgl@rideside.net> 
+> <tgl@rideside.net>
 >
 > +1-781-632-0733
 >
 > <https://github.com/terryg>
 >
-> <https://twitter.com/tlorber>
+> <https://x.com/tlorber>
 >
-> <https://www.linkedin.com/in/terry-lorber-62a1314/>
+> <https://www.linkedin.com/in/terry-g-lorber/>
 
 ## Profile
-Consensus-building leader of cross-functional product development teams. I've developed strategy and implemented product roadmaps for startups to mature ($100mn) global businesses. Pro-active project manager experienced with quality systems (ISO 9000, 21 CFR 820).
+Consensus-building leader of cross-functional product development teams. I've developed strategy and implemented product roadmaps for startups to $100mil global businesses. Pro-active project manager experienced with quality systems for medical devices (21 CFR 820, IEC 62304, ISO 14971).
 
 ## Experience
 
-| Title              | Company                      | Location        | Timeline    | Notes         | Tech          |
+| Title              | Company                      | Location        | Timeline    | Notes         | Skills        |
 |--------------------|------------------------------|-----------------|-------------|---------------|---------------|
-| __Software Architect__ | _Alloy Enterprises_ | _Burlington, MA_ | Jun 2022 - present | Planned, built, and maintained CAD/CAM software to support Alloy's novel stack forgning process. | C++, Python, TypeScript, React, github.com, Linux (Ubuntu), macOS, bash, make, CMake, pip, npm, conan, ansible  
-| __Owner__ | _Lynn Grown_ | _Lynn, MA_ | Jun 2022 - present | Low-THC cannabis grown in the City of Firsts | Herbert, linenode.com, Linux Containers, NGINX, WordPress |
-| __Owner__ | _Metatooth_ | _Swampscott, MA_      | Dec 2018 - present  | Product development. | AWS, Bash, BitBucket Pipelines, Browser, eslint, Git, Google Firebase, Heroku, JavaScript, Node, Ruby, ruby-lint, rubocop, Sinatra.rb, Vue.js, WordPress |
-| __VP of Software__ | _LightForce Orthodontics_ | _Cambridge, MA_ | Aug 2017 - Dec 2018 | Responsible for medical device and workflow software in support of company's first sale.  Led development and growth of software team. Contributed system architecture, implementation, regulatory documentation, project management, and product management.  <br/> __510(K) No. K181271__ Signature Orthodontics System <br/> __510(K) No. K183542__ Signature Orthodontics System | Azure, Azure DevOps, Bash, C++, CMake, Docker, Ember.js, Git, JavaScript, NGINX, PostgreSQL, Ruby, Sinatra.rb, three.js, Ubuntu |
-| __Director, Global Digital Product Development__ | _Dentsply Sirona Implants_ | _Waltham, MA_ | Jun 2014 - Aug 2017 | Responsible for strategy and project planning to meet business goals of networked workflows.  Led development of data analysis & visualization tools to identify key performance indicators. <br/> __US Patent No. 10,390,920 B2__ INTEGRATED DENTAL IMPLANT COMPONENT AND TOOL FOR PLACEMENT OF A DENTAL IMPLANT COMPONENT <br/> __US Patent No. D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES | Bash, Bugzilla, C++, Capistrano, CentOS, CMake, NGINX, PostgreSQL, rackspace.com, Ruby, Ruby on Rails, Subversion |
-| __Manager, Global Digital Product Development__ | _DENTSPLY Implants_ | _Waltham, MA_ | Aug 2010 - May 2014 | Responsible for business relationships and collaboration agreements with Partners on digital workflows.  Led development of API to meet business objectives.| Apache, Bash, Bugzilla, Capistrano, CentOS, Cygwin, PostgreSQL, rackspace.com, Ruby, Ruby on Rails, Subversion | __Consulting Software Engineer__ | _Astra Tech, Inc_ | _Waltham, MA_ | Jan 2007 - Jul 2010 | Responsible for front-end and API development. Software lead for industry leading B2B platform. Collaborated with Partners to deliver integrated workflows. | Apache, Bash, Bugzilla, Capistrano, CentOS, PostgreSQL, rackspace.com, Ruby on Rails, Subversion |
-| __Senior Software Engineer__ | _Atlantis Components, Inc_ | _Cambridge, MA_ | Aug 2000 - Jan 2007 | Responsible for automation of acquisition, design, and manufacturing workflows. Software Lead for industry's first CAD/CAM dental implant abutment. | Apache, Bash, C++, CMake, CVS, Postgresql, RedHat, Ruby on Rails, Unigraphics NX API |
-| __Product Engineer__ | _Freudenberg-NOK General Partnership_ | _Bristol, NH_ | Jun 1996 - Sep 1999 | My first and great experience in Kaizen. | C, Unigraphics NX API |
+| __Software Engineer, Architect__ | _Alloy Enterprises_ | _Burlington, MA_ | Jun 2022 - Nov 2024 | Planned, built, and maintained proprietary CAD/CAM software to support Alloy's novel manufacturing process. Collaborated across disciplines to unlock aluminum components at scale. | Software Engineering, Computational Geometry, Manufacturing, Python, C++
+| __Owner__ | _Metatooth_ | _Swampscott, MA_      | Dec 2018 - present  | Consulting services in advanced manufacturing, technology integration, and product development. | |
+| __VP of Software__ | _LightForce Orthodontics_ | _Cambridge, MA_ | Aug 2017 - Dec 2018 | Joined this pre-seed round dental startup as first software hire. Responsible for medical device and workflow software in support of company's first sale. Deployed cloud-native software stack for LightForce's first 510(K). Contributed system architecture, implementation, regulatory documentation, project management, and product management. <br/> __510(K) No. K181271__ Signature Orthodontics System <br/> __510(K) No. K183542__ Signature Orthodontics System | Medical Devices, FDA, JavaScript, C++, Computational Geometry |
+| __Director, Global Digital Product Development__ | _Dentsply Sirona_ | _Waltham, MA_ | Jun 2014 - Aug 2017 | Responsible for digital dentistry strategy and project planning for \$100mil global business. Leader of cross-functional product development team that launched Atlantis' first digital product. Collaborated with business partners to deliver integrated digital workflows. <br/> __US Patent No. 10,390,920 B2__ INTEGRATED DENTAL IMPLANT COMPONENT AND TOOL FOR PLACEMENT OF A DENTAL IMPLANT COMPONENT <br/> __US Patent No. D787,061S__ SCAN BODY FOR DENTAL IMPLANT PROCEDURES | Product Development, Cross-functional Team Leadership, Medical Devices, Manufacturing, Business Development |
+ __Consulting Software Engineer__ | _Astra Tech, Inc_ | _Waltham, MA_ | Jan 2007 - Jul 2010 | Technical owner of industry leading B2B platform. Full stack development using JavaScript, Ruby on Rails, PostgreSQL, and C++. Collaborated with business partners to deliver integrated digital dentistry workflows. | Software Engineering, Medical Devices, Manufacturing, C++, Ruby on Rails |
+| __Senior Software Engineer__ | _Atlantis Components, Inc_ | _Cambridge, MA_ | Aug 2000 - Jan 2007 | First software hire for this dental startup. Supported sales \& manufacture of industry's first CAD/CAM dental implant abutment. Automation of data acquisition, product design, and manufacturing workflows. | Software Engineering, Medical Devices, Manufacturing, C++, Ruby on Rails |
+| __Product Engineer__ | _Freudenberg-NOK General Partnership_ | _Bristol, NH_ | Jun 1996 - Sep 1999 | Product design, prototyping, and testing in support of sales and manufacturing. My first experience with Kaizen and continuous improvement culture. | C, Siemens NX, Computer-Aided Design (CAD), Manufacturing |
 
 ## Education
 
 | Degree | Organization | Location | Date |
 |--------|--------------|----------|------|
-| __Advanced Management Practices__ | _DENTSPLY International Leadership Series_ | _Frankfurt, Germany_ | May 2014 |
 | __M.S. in Computer Science__ | _Boston University, Metropolitan College_ | _Boston, MA_ | Sep 2013 |
-| __Certificate in Software Development__ | _Boston University, Metropolitan College_ | _Boston, MA_ | May 2010 |
 | __B.S.E. (Mechanical Engineering)__ | _University of Michigan, College of Engineering_ | _Ann Arbor, MI_ | May 1996 |
 
 ## Keywords
@@ -42,18 +39,20 @@ Consensus-building leader of cross-functional product development teams. I've de
 |--------------------|-------------------------------------------------------------|
 | Computer Languages | Bash, C/C++, JavaScript, Python, R, Ruby, SQL, TypeScript |
 | Operating Systems | Browsers (Chrome, Firefox), Linux (Ubuntu), macOS, Windows |
-| Protocols & APIs | JSON, REST, RPC, XML |
-| Databases | MySQL, PostgreSQL, Redis, Sqlite3 |
-| Web & App servers | NGINX, puma |
-| Tools | CMake, conan, Docker, Emacs, eslint, git, GitHub, Heroku, Jira, npm, PyCharm, ruby-lint, rubocop, Visual Studio Code, webpack, WordPress |
+| Protocols & APIs | HTTPS, JSON, REST, RPC, WSS, XML, YAML |
+| Databases | MS SQL Server, PostgreSQL, Redis, Sqlite3 |
+| Web & App servers | flask, NGINX, node.js, puma |
+| Tools | AWS, Azure, CMake, Docker, Emacs, GitHub, Jira, WordPress |
 | Frameworks | CGAL, FLTK, Node, OpenGL, Ruby on Rails, Sinatra.rb, three.js, vcglib, Unidraw, VTK, Vue.js, WebGL |
 | Methodology | Agile, Continuous Improvement, Kaizen, KanBan |
 | Reading | Atwood's Coding Horror, Beck's XP, Booch's UML, Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Fowler's Continuous Integration, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Spolsky's Joel on Software, Tufte's Visual Display of Quantitative Information |
 
 
-## Honors & Interests
-- Programmer, Gardener, Brewer, Hiker, Surfer, Telemark Skier
-- Town Meeting Member | Swampscott, MA | 2018-2023
+## Extra
+- Programmer, Gardener, Brewer, Hiker, Surfer, Telemark skier
+- Town Meeting Member | Swampscott, MA | 2018-2025
 - Cubmaster Pack 55 | Swampscott, MA | 2018-2020
 - UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1995-1996
 - Eagle Scout Troop 295 | Concord, NH | 1991
+
+rckFJcqv6&mHT$&j
