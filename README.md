@@ -54,5 +54,3 @@ Consensus-building leader of cross-functional product development teams. I've de
 - Cubmaster Pack 55 | Swampscott, MA | 2018-2020
 - UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1995-1996
 - Eagle Scout Troop 295 | Concord, NH | 1991
-
-rckFJcqv6&mHT$&j
