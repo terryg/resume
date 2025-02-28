@@ -1,13 +1,14 @@
 # Terry G Lorber
-## Programmer
+## Brewer, Gardener, Hiker, Programmer, Telemark Skier
 
 > <tgl@rideside.net>
 >
 > +1-781-632-0733
 >
-> <https://github.com/terryg>
 >
-> <https://x.com/tlorber>
+> <https://tgl.rideside.net>
+> 
+> <https://github.com/terryg>
 >
 > <https://www.linkedin.com/in/terry-g-lorber/>
 
@@ -49,7 +50,6 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 
 ## Extra
-- Programmer, Gardener, Brewer, Hiker, Surfer, Telemark skier
 - Town Meeting Member | Swampscott, MA | 2018-2025
 - Cubmaster Pack 55 | Swampscott, MA | 2018-2020
 - UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1995-1996
