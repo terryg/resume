@@ -29,7 +29,7 @@
 \def \name#1{\def\@name{#1}}        % \name command can be used to set name
 \def \@name {}                      % Set \@name to empty by default
 
-\def \addressSep {$\diamond$}         % Set default address seperator
+\def \addressSep {\textbullet}         % Set default address separator
 
 % One or two address lines can be specified 
 \let \@addressone \relax
@@ -104,7 +104,7 @@
   {\em #3}                 \hfill                  {\em #4}% Stop a space
   }\smallskip
   % \cdot used for bullets, items non-indented
-  \begin{list}{$\cdot$}{\leftmargin=0em}
+  \begin{list}{•}{\leftmargin=0em}
   \itemsep -0.5em \vspace{-0.5em}
 }{
   \end{list}
