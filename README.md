@@ -51,6 +51,6 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 
 ## Extra
-- Town Meeting Member | Swampscott, MA | 2018-2025
+- Town Meeting Member | Swampscott, MA | 2018-2026
 - UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1995-1996
 - Eagle Scout Troop 295 | Concord, NH | 1991
