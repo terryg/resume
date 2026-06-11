@@ -44,7 +44,7 @@ Consensus-building leader of cross-functional product development teams. I've de
 | Protocols & APIs | HTTPS, JSON, REST, RPC, WSS, XML, YAML |
 | Databases | MariaDB, MongoDB, PostgreSQL, Redis, Sqlite3 |
 | Web & App servers | express.js, flask, NGINX, puma |
-| Tools | AWS, Azure, ChatGPT/Claude/Codex/Gemini, CMake, Docker, Emacs, Git, GitHub (Actions, Copilot), Google Cloud Platform, Google Docs & Sheets, Jira, Linear.app, tmux, WordPress |
+| Tools | AWS, Azure, Claude Code, Codex, CMake, Docker, Emacs, Git, GitHub Actions, GitHub Copilot, Google Cloud Platform, Google Docs & Sheets, Jira, Linear.app, tmux, WordPress |
 | Libraries | CGAL, Clipper2, Eigen, FLTK, GEOS, .NET, Node, OpenGL, OpenMesh, Ruby on Rails, Sinatra.rb, three.js, vcglib, Unidraw, VTK, Vue.js, WebGL |
 | Methodology | Agile, Continuous Improvement, Kaizen, KanBan |
 | Infleuncers | Atwood's Coding Horror, Beck's XP, Booch's UML, Brooks' The Mythical Man-Month, DeMarco & Lister's Peopleware, Fowler's Continuous Integration, Gamma, Helm, Johnson, and Vlissides's Design Patterns, Spolsky's Joel on Software, Tufte's Visual Display of Quantitative Information |
