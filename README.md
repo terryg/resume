@@ -13,7 +13,7 @@
 > <https://www.linkedin.com/in/terry-g-lorber/>
 
 ## Profile
-Consensus-building leader of cross-functional product development teams. I've developed strategy and implemented product roadmaps for startups to $100 MM global businesses. Pro-active project manager experienced with quality systems for medical devices.
+Consensus-building leader of cross-functional product development teams. I've developed strategy and implemented product roadmaps for startups to $100M global businesses. Pro-active project manager experienced with quality systems for medical devices.
 
 ## Experience
 
