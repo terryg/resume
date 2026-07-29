@@ -51,6 +51,7 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 ## Extra
 - [Brewer](https://48bottles.com), [Gardener](https://www.tiktok.com/@growherbert), Hiker, [Programmer](https://github.com/terryg), Telemark skier
-- Town Meeting Member | Swampscott, MA | 2018-2026
+- Blue Big Band, Trombone | Swampscott, MA | 2020-present
+- Town Meeting Member | Swampscott, MA | 2018-present
 - UM College of Engineering Leadership Honor Society | Ann Arbor, MI | 1995-1996
 - Eagle Scout Troop 295 | Concord, NH | 1991
