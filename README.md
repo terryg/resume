@@ -19,6 +19,7 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 | Title              | Company                      | Location        | Timeline    | Notes         | Skills        |
 |--------------------|------------------------------|-----------------|-------------|---------------|---------------|
+| __Principal Software Engineer__ | _PTC_ | _Boston, MA_ | Aug 2026 - present | Software developer for the Onshape CAM Studio service. | Software Engineering, Computer Aided Manufacturing, C#, TypeScript |
 | __Founding Software Engineer__ | _FabuBlox_ | _Boston, MA_ | Mar 2025 - Jun 2026 | Process design, simulation, and visualization software for semiconductor device manufacture. | Software Engineering, Computational Geometry, C++, TypeScript
 | __Software Engineer, Architect__ | _Alloy Enterprises_ | _Burlington, MA_ | Jun 2022 - Nov 2024 | Planned, built, and maintained proprietary CAD/CAM software to support Alloy's novel manufacturing process. Collaborated across disciplines to unlock aluminum components at scale. | Software Engineering, Computational Geometry, Manufacturing, Python, C++
 | __Self-employed__ | | _Swampscott, MA_      | Dec 2018 - Jun 2022 | Consulting services in advanced manufacturing, technology integration, and product development. | |    
