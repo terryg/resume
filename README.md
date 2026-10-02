@@ -33,8 +33,8 @@ Consensus-building leader of cross-functional product development teams. I've de
 
 | Degree | Organization | Location | Date |
 |--------|--------------|----------|------|
-| __M.S. in Computer Science__ | _Boston University, Metropolitan College_ | _Boston, MA_ | Sep 2013 |
-| __B.S.E. (Mechanical Engineering)__ | _University of Michigan, College of Engineering_ | _Ann Arbor, MI_ | May 1996 |
+| __M.S. in Computer Science__ | _Boston University Metropolitan College_ | _Boston, MA_ | Sep 2013 |
+| __B.S.E. (Mechanical Engineering)__ | _University of Michigan College of Engineering_ | _Ann Arbor, MI_ | May 1996 |
 
 ## Keywords
 
